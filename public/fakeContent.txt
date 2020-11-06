@@ -1,0 +1,4424 @@
+
+    <div
+      class="span12 produto"
+      itemscope="itemscope"
+      itemtype="http://schema.org/Product"
+    >
+      <header class="produto__header">
+        <h1 class="nome-produto titulo cor-secundaria" itemprop="name">
+          Aliança encapada, envelopada, revestida reta 3 milímetros em ouro 10k
+        </h1>
+      </header>
+      <div class="row-fluid">
+        <div class="span6">
+          <div class="conteiner-imagem">
+            <div>
+              <a
+                href="https://cdn.awsli.com.br/1000x1000/1682/1682931/produto/69110028/5070b6e08d.jpg"
+                title="Ver imagem grande do produto"
+                id="abreZoom"
+                style="display: none"
+                ><i class="icon-zoom-in"></i
+              ></a>
+
+              <img
+                src="https://cdn.awsli.com.br/600x1000/1682/1682931/produto/69110028/5070b6e08d.jpg"
+                alt="Aliança encapada, envelopada, revestida reta 3 milímetros em ouro 10k"
+                id="imagemProduto"
+                itemprop="image"
+              />
+            </div>
+          </div>
+          <div class="produto-thumbs thumbs-horizontal">
+            <div id="carouselImagem" class="flexslider flex-centered">
+              <div
+                class="flex-viewport elastislide-carousel"
+                style="overflow: hidden; position: relative"
+              >
+                <ul
+                  class="miniaturas slides"
+                  style="
+                    width: 800%;
+                    transition-duration: 0s;
+                    transform: translate3d(0px, 0px, 0px);
+                  "
+                >
+                  <li
+                    style="width: 80px; float: left; display: block"
+                    class="active"
+                  >
+                    <a
+                      href="javascript:;"
+                      title="Aliança encapada, envelopada, revestida reta 3 milímetros em ouro 10k - Imagem 1"
+                      data-imagem-grande="https://cdn.awsli.com.br/1000x1000/1682/1682931/produto/69110028/5070b6e08d.jpg"
+                      data-imagem-id="60694711"
+                    >
+                      <span>
+                        <img
+                          src="https://cdn.awsli.com.br/64x50/1682/1682931/produto/69110028/5070b6e08d.jpg"
+                          alt="Aliança encapada, envelopada, revestida reta 3 milímetros em ouro 10k - Imagem 1"
+                          data-largeimg="https://cdn.awsli.com.br/1000x1000/1682/1682931/produto/69110028/5070b6e08d.jpg"
+                          data-mediumimg="https://cdn.awsli.com.br/600x1000/1682/1682931/produto/69110028/5070b6e08d.jpg"
+                          draggable="false"
+                        />
+                      </span>
+                    </a>
+                  </li>
+
+                  <li style="width: 80px; float: left; display: block">
+                    <a
+                      href="javascript:;"
+                      title="Aliança encapada, envelopada, revestida reta 3 milímetros em ouro 10k - Imagem 2"
+                      data-imagem-grande="https://cdn.awsli.com.br/1000x1000/1682/1682931/produto/69110028/ecdf9de270.jpg"
+                      data-imagem-id="60694709"
+                    >
+                      <span>
+                        <img
+                          src="https://cdn.awsli.com.br/64x50/1682/1682931/produto/69110028/ecdf9de270.jpg"
+                          alt="Aliança encapada, envelopada, revestida reta 3 milímetros em ouro 10k - Imagem 2"
+                          data-largeimg="https://cdn.awsli.com.br/1000x1000/1682/1682931/produto/69110028/ecdf9de270.jpg"
+                          data-mediumimg="https://cdn.awsli.com.br/600x1000/1682/1682931/produto/69110028/ecdf9de270.jpg"
+                          draggable="false"
+                        />
+                      </span>
+                    </a>
+                  </li>
+
+                  <li style="width: 80px; float: left; display: block">
+                    <a
+                      href="javascript:;"
+                      title="Aliança encapada, envelopada, revestida reta 3 milímetros em ouro 10k - Imagem 3"
+                      data-imagem-grande="https://cdn.awsli.com.br/1000x1000/1682/1682931/produto/69110028/4a7d532684.jpg"
+                      data-imagem-id="60694712"
+                    >
+                      <span>
+                        <img
+                          src="https://cdn.awsli.com.br/64x50/1682/1682931/produto/69110028/4a7d532684.jpg"
+                          alt="Aliança encapada, envelopada, revestida reta 3 milímetros em ouro 10k - Imagem 3"
+                          data-largeimg="https://cdn.awsli.com.br/1000x1000/1682/1682931/produto/69110028/4a7d532684.jpg"
+                          data-mediumimg="https://cdn.awsli.com.br/600x1000/1682/1682931/produto/69110028/4a7d532684.jpg"
+                          draggable="false"
+                        />
+                      </span>
+                    </a>
+                  </li>
+
+                  <li style="width: 80px; float: left; display: block">
+                    <a
+                      href="javascript:;"
+                      title="Aliança encapada, envelopada, revestida reta 3 milímetros em ouro 10k - Imagem 4"
+                      data-imagem-grande="https://cdn.awsli.com.br/1000x1000/1682/1682931/produto/69110028/3737e3a8bd.jpg"
+                      data-imagem-id="60694713"
+                    >
+                      <span>
+                        <img
+                          src="https://cdn.awsli.com.br/64x50/1682/1682931/produto/69110028/3737e3a8bd.jpg"
+                          alt="Aliança encapada, envelopada, revestida reta 3 milímetros em ouro 10k - Imagem 4"
+                          data-largeimg="https://cdn.awsli.com.br/1000x1000/1682/1682931/produto/69110028/3737e3a8bd.jpg"
+                          data-mediumimg="https://cdn.awsli.com.br/600x1000/1682/1682931/produto/69110028/3737e3a8bd.jpg"
+                          draggable="false"
+                        />
+                      </span>
+                    </a>
+                  </li>
+                </ul>
+              </div>
+              <ul class="flex-direction-nav">
+                <li class="flex-nav-prev">
+                  <a class="flex-prev flex-disabled" href="#" tabindex="-1"
+                    >Previous</a
+                  >
+                </li>
+                <li class="flex-nav-next">
+                  <a class="flex-next flex-disabled" href="#" tabindex="-1"
+                    >Next</a
+                  >
+                </li>
+              </ul>
+            </div>
+          </div>
+
+          <div class="produto-compartilhar">
+            <div class="lista-redes">
+              <div
+                class="addthis_toolbox addthis_default_style addthis_32x32_style"
+              >
+                <ul>
+                  <li class="visible-phone">
+                    <a
+                      href="https://api.whatsapp.com/send?text=Alian%C3%A7a%20encapada%2C%20envelopada%2C%20revestida%20reta%203%20mil%C3%ADmetros%20em%20ouro%2010k%20http%3A%2F%2Fwww.santjordi.com.br/alianca-encapada-envelopada-revestida-reta-3-milimetros-em-ouro-10k"
+                      target="_blank"
+                      ><i class="fa fa-whatsapp"></i
+                    ></a>
+                  </li>
+
+                  <li class="hidden-phone">
+                    <a
+                      href="https://www.santjordi.com.br/conta/favorito/69110028/adicionar"
+                      class="lista-favoritos fundo-principal adicionar-favorito hidden-phone"
+                      rel="nofollow"
+                    >
+                      <i class="icon-plus"></i>
+                      Lista de Desejos
+                    </a>
+                  </li>
+
+                  <li class="fb-compartilhar">
+                    <div
+                      class="fb-share-button fb_iframe_widget fb_iframe_widget_fluid"
+                      data-href="https://www.santjordi.com.br/alianca-encapada-envelopada-revestida-reta-3-milimetros-em-ouro-10k"
+                      data-layout="button"
+                      fb-xfbml-state="rendered"
+                      fb-iframe-plugin-query="app_id=&amp;container_width=0&amp;href=https%3A%2F%2Fwww.santjordi.com.br%2Falianca-encapada-envelopada-revestida-reta-3-milimetros-em-ouro-10k&amp;layout=button&amp;locale=pt_BR&amp;sdk=joey"
+                    >
+                      <span
+                        style="vertical-align: bottom; width: 0px; height: 0px"
+                        ><iframe
+                          name="fc5a39b8ddf5ac"
+                          width="1000px"
+                          height="1000px"
+                          data-testid="fb:share_button Facebook Social Plugin"
+                          title="fb:share_button Facebook Social Plugin"
+                          frameborder="0"
+                          allowtransparency="true"
+                          allowfullscreen="true"
+                          scrolling="no"
+                          allow="encrypted-media"
+                          src="https://www.facebook.com/v2.5/plugins/share_button.php?app_id=&amp;channel=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Df3c34715e0c9a64%26domain%3Dwww.santjordi.com.br%26origin%3Dhttps%253A%252F%252Fwww.santjordi.com.br%252Ff2c00ba2540e48c%26relation%3Dparent.parent&amp;container_width=0&amp;href=https%3A%2F%2Fwww.santjordi.com.br%2Falianca-encapada-envelopada-revestida-reta-3-milimetros-em-ouro-10k&amp;layout=button&amp;locale=pt_BR&amp;sdk=joey"
+                          class=""
+                          style="
+                            border: none;
+                            visibility: visible;
+                            width: 0px;
+                            height: 0px;
+                          "
+                        ></iframe
+                      ></span>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+
+        </div>
+        <div class="span6">
+          <div class="principal">
+            <div class="info-principal-produto">
+              <div class="breadcrumbs borda-alpha">
+                <ul>
+                  <li>
+                    <a href="https://www.santjordi.com.br/"
+                      ><i class="fa fa-folder"></i>Início</a
+                    >
+                  </li>
+
+                  <li>
+                    <a
+                      href="https://www.santjordi.com.br/alianca-encapada-envelopada-revestida-em-ouro"
+                      >Aliança Encapada - Envelopada - Revestida em ouro</a
+                    >
+                  </li>
+
+                  <li>
+                    <a
+                      href="https://www.santjordi.com.br/alianca-encapada-envelopada-revestida-em-ouro-10k"
+                      >Ouro 10k</a
+                    >
+                  </li>
+
+
+                </ul>
+              </div>
+
+              <div class="codigo-produto">
+                <span class="cor-secundaria">
+                  <b>Código: </b> <span itemprop="sku">MP2TLSJ2L</span>
+                </span>
+
+                <span
+                  class="cor-secundaria pull-right"
+                  itemprop="brand"
+                  itemscope="itemscope"
+                  itemtype="http://schema.org/Brand"
+                >
+                  <b>Marca: </b>
+                  <a
+                    href="https://www.santjordi.com.br/marca/sant-jordi-aliancas.html"
+                    itemprop="url"
+                    >Sant Jordi Alianças</a
+                  >
+                  <meta itemprop="name" content="Sant Jordi Alianças" />
+                </span>
+
+                <div class="hide trustvox-stars">
+                  <a href="#comentarios" target="_self">
+                    <div
+                      data-trustvox-product-code-js="69110028"
+                      data-trustvox-should-skip-filter="true"
+                      data-trustvox-display-rate-schema="true"
+                    ></div>
+                  </a>
+                </div>
+              </div>
+            </div>
+
+            <div class="atributos">
+              <div class="atributo-comum">
+                <span>
+                  Selecione a opção de
+
+                  <b class="cor-secundaria">Tamanho</b>:
+                </span>
+                <div class="wrapper-dropdown componente show">
+                  <span>Selecione</span>
+                  <ul class="dropdown">
+                    <li>
+                      <a
+                        href="javascript:;"
+                        class="atributo-item"
+                        data-grade-id="32656"
+                        data-variacao-id="138920"
+                        data-pode-ter-imagens="false"
+                      >
+                        <span> 10 </span>
+                        <i class="icon-remove hide"></i>
+                      </a>
+                    </li>
+
+                    <li>
+                      <a
+                        href="javascript:;"
+                        class="atributo-item"
+                        data-grade-id="32656"
+                        data-variacao-id="138921"
+                        data-pode-ter-imagens="false"
+                      >
+                        <span> 11 </span>
+                        <i class="icon-remove hide"></i>
+                      </a>
+                    </li>
+
+                    <li>
+                      <a
+                        href="javascript:;"
+                        class="atributo-item"
+                        data-grade-id="32656"
+                        data-variacao-id="138922"
+                        data-pode-ter-imagens="false"
+                      >
+                        <span> 12 </span>
+                        <i class="icon-remove hide"></i>
+                      </a>
+                    </li>
+
+                    <li>
+                      <a
+                        href="javascript:;"
+                        class="atributo-item"
+                        data-grade-id="32656"
+                        data-variacao-id="138923"
+                        data-pode-ter-imagens="false"
+                      >
+                        <span> 13 </span>
+                        <i class="icon-remove hide"></i>
+                      </a>
+                    </li>
+
+                    <li>
+                      <a
+                        href="javascript:;"
+                        class="atributo-item"
+                        data-grade-id="32656"
+                        data-variacao-id="138924"
+                        data-pode-ter-imagens="false"
+                      >
+                        <span> 14 </span>
+                        <i class="icon-remove hide"></i>
+                      </a>
+                    </li>
+
+                    <li>
+                      <a
+                        href="javascript:;"
+                        class="atributo-item"
+                        data-grade-id="32656"
+                        data-variacao-id="138925"
+                        data-pode-ter-imagens="false"
+                      >
+                        <span> 15 </span>
+                        <i class="icon-remove hide"></i>
+                      </a>
+                    </li>
+
+                    <li>
+                      <a
+                        href="javascript:;"
+                        class="atributo-item"
+                        data-grade-id="32656"
+                        data-variacao-id="138926"
+                        data-pode-ter-imagens="false"
+                      >
+                        <span> 16 </span>
+                        <i class="icon-remove hide"></i>
+                      </a>
+                    </li>
+
+                    <li>
+                      <a
+                        href="javascript:;"
+                        class="atributo-item"
+                        data-grade-id="32656"
+                        data-variacao-id="138927"
+                        data-pode-ter-imagens="false"
+                      >
+                        <span> 17 </span>
+                        <i class="icon-remove hide"></i>
+                      </a>
+                    </li>
+
+                    <li>
+                      <a
+                        href="javascript:;"
+                        class="atributo-item"
+                        data-grade-id="32656"
+                        data-variacao-id="138928"
+                        data-pode-ter-imagens="false"
+                      >
+                        <span> 18 </span>
+                        <i class="icon-remove hide"></i>
+                      </a>
+                    </li>
+
+                    <li>
+                      <a
+                        href="javascript:;"
+                        class="atributo-item"
+                        data-grade-id="32656"
+                        data-variacao-id="138929"
+                        data-pode-ter-imagens="false"
+                      >
+                        <span> 19 </span>
+                        <i class="icon-remove hide"></i>
+                      </a>
+                    </li>
+
+                    <li>
+                      <a
+                        href="javascript:;"
+                        class="atributo-item"
+                        data-grade-id="32656"
+                        data-variacao-id="138930"
+                        data-pode-ter-imagens="false"
+                      >
+                        <span> 20 </span>
+                        <i class="icon-remove hide"></i>
+                      </a>
+                    </li>
+
+                    <li>
+                      <a
+                        href="javascript:;"
+                        class="atributo-item"
+                        data-grade-id="32656"
+                        data-variacao-id="138931"
+                        data-pode-ter-imagens="false"
+                      >
+                        <span> 21 </span>
+                        <i class="icon-remove hide"></i>
+                      </a>
+                    </li>
+
+                    <li>
+                      <a
+                        href="javascript:;"
+                        class="atributo-item"
+                        data-grade-id="32656"
+                        data-variacao-id="138932"
+                        data-pode-ter-imagens="false"
+                      >
+                        <span> 22 </span>
+                        <i class="icon-remove hide"></i>
+                      </a>
+                    </li>
+
+                    <li>
+                      <a
+                        href="javascript:;"
+                        class="atributo-item"
+                        data-grade-id="32656"
+                        data-variacao-id="138933"
+                        data-pode-ter-imagens="false"
+                      >
+                        <span> 23 </span>
+                        <i class="icon-remove hide"></i>
+                      </a>
+                    </li>
+
+                    <li>
+                      <a
+                        href="javascript:;"
+                        class="atributo-item"
+                        data-grade-id="32656"
+                        data-variacao-id="138934"
+                        data-pode-ter-imagens="false"
+                      >
+                        <span> 24 </span>
+                        <i class="icon-remove hide"></i>
+                      </a>
+                    </li>
+
+                    <li>
+                      <a
+                        href="javascript:;"
+                        class="atributo-item"
+                        data-grade-id="32656"
+                        data-variacao-id="138935"
+                        data-pode-ter-imagens="false"
+                      >
+                        <span> 25 </span>
+                        <i class="icon-remove hide"></i>
+                      </a>
+                    </li>
+
+                    <li>
+                      <a
+                        href="javascript:;"
+                        class="atributo-item"
+                        data-grade-id="32656"
+                        data-variacao-id="138936"
+                        data-pode-ter-imagens="false"
+                      >
+                        <span> 26 </span>
+                        <i class="icon-remove hide"></i>
+                      </a>
+                    </li>
+
+                    <li>
+                      <a
+                        href="javascript:;"
+                        class="atributo-item"
+                        data-grade-id="32656"
+                        data-variacao-id="138937"
+                        data-pode-ter-imagens="false"
+                      >
+                        <span> 27 </span>
+                        <i class="icon-remove hide"></i>
+                      </a>
+                    </li>
+
+                    <li>
+                      <a
+                        href="javascript:;"
+                        class="atributo-item"
+                        data-grade-id="32656"
+                        data-variacao-id="138938"
+                        data-pode-ter-imagens="false"
+                      >
+                        <span> 28 </span>
+                        <i class="icon-remove hide"></i>
+                      </a>
+                    </li>
+
+                    <li>
+                      <a
+                        href="javascript:;"
+                        class="atributo-item"
+                        data-grade-id="32656"
+                        data-variacao-id="138939"
+                        data-pode-ter-imagens="false"
+                      >
+                        <span> 29 </span>
+                        <i class="icon-remove hide"></i>
+                      </a>
+                    </li>
+
+                    <li>
+                      <a
+                        href="javascript:;"
+                        class="atributo-item"
+                        data-grade-id="32656"
+                        data-variacao-id="138940"
+                        data-pode-ter-imagens="false"
+                      >
+                        <span> 30 </span>
+                        <i class="icon-remove hide"></i>
+                      </a>
+                    </li>
+
+                    <li>
+                      <a
+                        href="javascript:;"
+                        class="atributo-item"
+                        data-grade-id="32656"
+                        data-variacao-id="138941"
+                        data-pode-ter-imagens="false"
+                      >
+                        <span> 31 </span>
+                        <i class="icon-remove hide"></i>
+                      </a>
+                    </li>
+
+                    <li>
+                      <a
+                        href="javascript:;"
+                        class="atributo-item"
+                        data-grade-id="32656"
+                        data-variacao-id="138942"
+                        data-pode-ter-imagens="false"
+                      >
+                        <span> 32 </span>
+                        <i class="icon-remove hide"></i>
+                      </a>
+                    </li>
+
+                    <li>
+                      <a
+                        href="javascript:;"
+                        class="atributo-item"
+                        data-grade-id="32656"
+                        data-variacao-id="138943"
+                        data-pode-ter-imagens="false"
+                      >
+                        <span> 33 </span>
+                        <i class="icon-remove hide"></i>
+                      </a>
+                    </li>
+
+                    <li>
+                      <a
+                        href="javascript:;"
+                        class="atributo-item"
+                        data-grade-id="32656"
+                        data-variacao-id="138944"
+                        data-pode-ter-imagens="false"
+                      >
+                        <span> 34 </span>
+                        <i class="icon-remove hide"></i>
+                      </a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+
+            <div
+              class="acoes-produto hide disponivel SKU-MP2TLSJ2L-34"
+              data-produto-id="69111069"
+              data-variacao-id="138944"
+            >
+              <div>
+                <div class="preco-produto destaque-preco">
+                  <div>
+                    <strong class="preco-promocional cor-principal titulo">
+                      R$ 160,00
+                    </strong>
+                  </div>
+
+
+                  <div>
+                    <span class="preco-parcela">
+                      até
+                      <strong class="cor-secundaria">4x</strong>
+
+                      de
+                      <strong class="cor-secundaria">R$ 42,86</strong>
+                    </span>
+                  </div>
+
+                </div>
+              </div>
+
+              <div
+                itemprop="offers"
+                itemscope="itemscope"
+                itemtype="http://schema.org/Offer"
+              >
+                <meta itemprop="price" content="160.00" />
+
+                <meta itemprop="priceCurrency" content="BRL" />
+                <meta
+                  itemprop="availability"
+                  content="http://schema.org/LimitedAvailability"
+                />
+                <meta
+                  itemprop="itemCondition"
+                  itemtype="http://schema.org/OfferItemCondition"
+                  content="http://schema.org/NewCondition"
+                />
+
+                <meta itemprop="sku" content="MP2TLSJ2L-34" />
+                <meta
+                  itemprop="url"
+                  content="https://www.santjordi.com.br/alianca-encapada-envelopada-revestida-reta-3-milimetros-em-ouro-10k?sku=MP2TLSJ2L-34"
+                />
+              </div>
+
+              <div class="comprar">
+                <label class="qtde-adicionar-carrinho" style="width: 135px">
+                  <span class="qtde-carrinho-title">Qtde:</span>
+                  <input
+                    type="number"
+                    min="1"
+                    value="1"
+                    class="qtde-carrinho"
+                    name="qtde-carrinho"
+                  />
+                </label>
+
+                <a
+                  href="https://www.santjordi.com.br/carrinho/produto/69111069/adicionar"
+                  class="botao botao-comprar principal grande botao-comprar-ajax"
+                  rel="nofollow"
+                  data-loading-text="<i class='icon-refresh icon-animate'></i> Comprar"
+                  data-placement="left"
+                >
+                  <i class="icon-shopping-cart"></i> Comprar
+                </a>
+
+                <span class="cor-secundaria disponibilidade-produto">
+                  Estoque:
+                  <b class="cor-principal"> 2 dias úteis </b>
+                </span>
+              </div>
+            </div>
+
+            <div
+              class="acoes-produto hide disponivel SKU-MP2TLSJ2L-33"
+              data-produto-id="69111042"
+              data-variacao-id="138943"
+            >
+              <div>
+                <div class="preco-produto destaque-preco">
+                  <div>
+                    <strong class="preco-promocional cor-principal titulo">
+                      R$ 160,00
+                    </strong>
+                  </div>
+
+
+                  <div>
+                    <span class="preco-parcela">
+                      até
+                      <strong class="cor-secundaria">4x</strong>
+
+                      de
+                      <strong class="cor-secundaria">R$ 42,86</strong>
+                    </span>
+                  </div>
+
+                </div>
+              </div>
+
+              <div
+                itemprop="offers"
+                itemscope="itemscope"
+                itemtype="http://schema.org/Offer"
+              >
+                <meta itemprop="price" content="160.00" />
+
+                <meta itemprop="priceCurrency" content="BRL" />
+                <meta
+                  itemprop="availability"
+                  content="http://schema.org/LimitedAvailability"
+                />
+                <meta
+                  itemprop="itemCondition"
+                  itemtype="http://schema.org/OfferItemCondition"
+                  content="http://schema.org/NewCondition"
+                />
+
+                <meta itemprop="sku" content="MP2TLSJ2L-33" />
+                <meta
+                  itemprop="url"
+                  content="https://www.santjordi.com.br/alianca-encapada-envelopada-revestida-reta-3-milimetros-em-ouro-10k?sku=MP2TLSJ2L-33"
+                />
+              </div>
+
+              <div class="comprar">
+                <label class="qtde-adicionar-carrinho" style="width: 135px">
+                  <span class="qtde-carrinho-title">Qtde:</span>
+                  <input
+                    type="number"
+                    min="1"
+                    value="1"
+                    class="qtde-carrinho"
+                    name="qtde-carrinho"
+                  />
+                </label>
+
+                <a
+                  href="https://www.santjordi.com.br/carrinho/produto/69111042/adicionar"
+                  class="botao botao-comprar principal grande botao-comprar-ajax"
+                  rel="nofollow"
+                  data-loading-text="<i class='icon-refresh icon-animate'></i> Comprar"
+                  data-placement="left"
+                >
+                  <i class="icon-shopping-cart"></i> Comprar
+                </a>
+
+                <span class="cor-secundaria disponibilidade-produto">
+                  Estoque:
+                  <b class="cor-principal"> 2 dias úteis </b>
+                </span>
+              </div>
+            </div>
+
+            <div
+              class="acoes-produto hide disponivel SKU-MP2TLSJ2L-32"
+              data-produto-id="69111022"
+              data-variacao-id="138942"
+            >
+              <div>
+                <div class="preco-produto destaque-preco">
+                  <div>
+                    <strong class="preco-promocional cor-principal titulo">
+                      R$ 160,00
+                    </strong>
+                  </div>
+
+
+                  <div>
+                    <span class="preco-parcela">
+                      até
+                      <strong class="cor-secundaria">4x</strong>
+
+                      de
+                      <strong class="cor-secundaria">R$ 42,86</strong>
+                    </span>
+                  </div>
+
+                </div>
+              </div>
+
+              <div
+                itemprop="offers"
+                itemscope="itemscope"
+                itemtype="http://schema.org/Offer"
+              >
+                <meta itemprop="price" content="160.00" />
+
+                <meta itemprop="priceCurrency" content="BRL" />
+                <meta
+                  itemprop="availability"
+                  content="http://schema.org/LimitedAvailability"
+                />
+                <meta
+                  itemprop="itemCondition"
+                  itemtype="http://schema.org/OfferItemCondition"
+                  content="http://schema.org/NewCondition"
+                />
+
+                <meta itemprop="sku" content="MP2TLSJ2L-32" />
+                <meta
+                  itemprop="url"
+                  content="https://www.santjordi.com.br/alianca-encapada-envelopada-revestida-reta-3-milimetros-em-ouro-10k?sku=MP2TLSJ2L-32"
+                />
+              </div>
+
+              <div class="comprar">
+                <label class="qtde-adicionar-carrinho" style="width: 135px">
+                  <span class="qtde-carrinho-title">Qtde:</span>
+                  <input
+                    type="number"
+                    min="1"
+                    value="1"
+                    class="qtde-carrinho"
+                    name="qtde-carrinho"
+                  />
+                </label>
+
+                <a
+                  href="https://www.santjordi.com.br/carrinho/produto/69111022/adicionar"
+                  class="botao botao-comprar principal grande botao-comprar-ajax"
+                  rel="nofollow"
+                  data-loading-text="<i class='icon-refresh icon-animate'></i> Comprar"
+                  data-placement="left"
+                >
+                  <i class="icon-shopping-cart"></i> Comprar
+                </a>
+
+                <span class="cor-secundaria disponibilidade-produto">
+                  Estoque:
+                  <b class="cor-principal"> 2 dias úteis </b>
+                </span>
+              </div>
+            </div>
+
+            <div
+              class="acoes-produto hide disponivel SKU-MP2TLSJ2L-31"
+              data-produto-id="69110989"
+              data-variacao-id="138941"
+            >
+              <div>
+                <div class="preco-produto destaque-preco">
+                  <div>
+                    <strong class="preco-promocional cor-principal titulo">
+                      R$ 160,00
+                    </strong>
+                  </div>
+
+
+                  <div>
+                    <span class="preco-parcela">
+                      até
+                      <strong class="cor-secundaria">4x</strong>
+
+                      de
+                      <strong class="cor-secundaria">R$ 42,86</strong>
+                    </span>
+                  </div>
+
+                </div>
+              </div>
+
+              <div
+                itemprop="offers"
+                itemscope="itemscope"
+                itemtype="http://schema.org/Offer"
+              >
+                <meta itemprop="price" content="160.00" />
+
+                <meta itemprop="priceCurrency" content="BRL" />
+                <meta
+                  itemprop="availability"
+                  content="http://schema.org/LimitedAvailability"
+                />
+                <meta
+                  itemprop="itemCondition"
+                  itemtype="http://schema.org/OfferItemCondition"
+                  content="http://schema.org/NewCondition"
+                />
+
+                <meta itemprop="sku" content="MP2TLSJ2L-31" />
+                <meta
+                  itemprop="url"
+                  content="https://www.santjordi.com.br/alianca-encapada-envelopada-revestida-reta-3-milimetros-em-ouro-10k?sku=MP2TLSJ2L-31"
+                />
+              </div>
+
+              <div class="comprar">
+                <label class="qtde-adicionar-carrinho" style="width: 135px">
+                  <span class="qtde-carrinho-title">Qtde:</span>
+                  <input
+                    type="number"
+                    min="1"
+                    value="1"
+                    class="qtde-carrinho"
+                    name="qtde-carrinho"
+                  />
+                </label>
+
+                <a
+                  href="https://www.santjordi.com.br/carrinho/produto/69110989/adicionar"
+                  class="botao botao-comprar principal grande botao-comprar-ajax"
+                  rel="nofollow"
+                  data-loading-text="<i class='icon-refresh icon-animate'></i> Comprar"
+                  data-placement="left"
+                >
+                  <i class="icon-shopping-cart"></i> Comprar
+                </a>
+
+                <span class="cor-secundaria disponibilidade-produto">
+                  Estoque:
+                  <b class="cor-principal"> 2 dias úteis </b>
+                </span>
+              </div>
+            </div>
+
+            <div
+              class="acoes-produto hide disponivel SKU-MP2TLSJ2L-30"
+              data-produto-id="69110977"
+              data-variacao-id="138940"
+            >
+              <div>
+                <div class="preco-produto destaque-preco">
+                  <div>
+                    <strong class="preco-promocional cor-principal titulo">
+                      R$ 160,00
+                    </strong>
+                  </div>
+
+
+                  <div>
+                    <span class="preco-parcela">
+                      até
+                      <strong class="cor-secundaria">4x</strong>
+
+                      de
+                      <strong class="cor-secundaria">R$ 42,86</strong>
+                    </span>
+                  </div>
+
+                </div>
+              </div>
+
+              <div
+                itemprop="offers"
+                itemscope="itemscope"
+                itemtype="http://schema.org/Offer"
+              >
+                <meta itemprop="price" content="160.00" />
+
+                <meta itemprop="priceCurrency" content="BRL" />
+                <meta
+                  itemprop="availability"
+                  content="http://schema.org/LimitedAvailability"
+                />
+                <meta
+                  itemprop="itemCondition"
+                  itemtype="http://schema.org/OfferItemCondition"
+                  content="http://schema.org/NewCondition"
+                />
+
+                <meta itemprop="sku" content="MP2TLSJ2L-30" />
+                <meta
+                  itemprop="url"
+                  content="https://www.santjordi.com.br/alianca-encapada-envelopada-revestida-reta-3-milimetros-em-ouro-10k?sku=MP2TLSJ2L-30"
+                />
+              </div>
+
+              <div class="comprar">
+                <label class="qtde-adicionar-carrinho" style="width: 135px">
+                  <span class="qtde-carrinho-title">Qtde:</span>
+                  <input
+                    type="number"
+                    min="1"
+                    value="1"
+                    class="qtde-carrinho"
+                    name="qtde-carrinho"
+                  />
+                </label>
+
+                <a
+                  href="https://www.santjordi.com.br/carrinho/produto/69110977/adicionar"
+                  class="botao botao-comprar principal grande botao-comprar-ajax"
+                  rel="nofollow"
+                  data-loading-text="<i class='icon-refresh icon-animate'></i> Comprar"
+                  data-placement="left"
+                >
+                  <i class="icon-shopping-cart"></i> Comprar
+                </a>
+
+                <span class="cor-secundaria disponibilidade-produto">
+                  Estoque:
+                  <b class="cor-principal"> 2 dias úteis </b>
+                </span>
+              </div>
+            </div>
+
+            <div
+              class="acoes-produto hide disponivel SKU-MP2TLSJ2L-29"
+              data-produto-id="69110967"
+              data-variacao-id="138939"
+            >
+              <div>
+                <div class="preco-produto destaque-preco">
+                  <div>
+                    <strong class="preco-promocional cor-principal titulo">
+                      R$ 160,00
+                    </strong>
+                  </div>
+
+
+                  <div>
+                    <span class="preco-parcela">
+                      até
+                      <strong class="cor-secundaria">4x</strong>
+
+                      de
+                      <strong class="cor-secundaria">R$ 42,86</strong>
+                    </span>
+                  </div>
+
+                </div>
+              </div>
+
+              <div
+                itemprop="offers"
+                itemscope="itemscope"
+                itemtype="http://schema.org/Offer"
+              >
+                <meta itemprop="price" content="160.00" />
+
+                <meta itemprop="priceCurrency" content="BRL" />
+                <meta
+                  itemprop="availability"
+                  content="http://schema.org/LimitedAvailability"
+                />
+                <meta
+                  itemprop="itemCondition"
+                  itemtype="http://schema.org/OfferItemCondition"
+                  content="http://schema.org/NewCondition"
+                />
+
+                <meta itemprop="sku" content="MP2TLSJ2L-29" />
+                <meta
+                  itemprop="url"
+                  content="https://www.santjordi.com.br/alianca-encapada-envelopada-revestida-reta-3-milimetros-em-ouro-10k?sku=MP2TLSJ2L-29"
+                />
+              </div>
+
+              <div class="comprar">
+                <label class="qtde-adicionar-carrinho" style="width: 135px">
+                  <span class="qtde-carrinho-title">Qtde:</span>
+                  <input
+                    type="number"
+                    min="1"
+                    value="1"
+                    class="qtde-carrinho"
+                    name="qtde-carrinho"
+                  />
+                </label>
+
+                <a
+                  href="https://www.santjordi.com.br/carrinho/produto/69110967/adicionar"
+                  class="botao botao-comprar principal grande botao-comprar-ajax"
+                  rel="nofollow"
+                  data-loading-text="<i class='icon-refresh icon-animate'></i> Comprar"
+                  data-placement="left"
+                >
+                  <i class="icon-shopping-cart"></i> Comprar
+                </a>
+
+                <span class="cor-secundaria disponibilidade-produto">
+                  Estoque:
+                  <b class="cor-principal"> 2 dias úteis </b>
+                </span>
+              </div>
+            </div>
+
+            <div
+              class="acoes-produto hide disponivel SKU-MP2TLSJ2L-28"
+              data-produto-id="69110941"
+              data-variacao-id="138938"
+            >
+              <div>
+                <div class="preco-produto destaque-preco">
+                  <div>
+                    <strong class="preco-promocional cor-principal titulo">
+                      R$ 160,00
+                    </strong>
+                  </div>
+
+
+                  <div>
+                    <span class="preco-parcela">
+                      até
+                      <strong class="cor-secundaria">4x</strong>
+
+                      de
+                      <strong class="cor-secundaria">R$ 42,86</strong>
+                    </span>
+                  </div>
+
+                </div>
+              </div>
+
+              <div
+                itemprop="offers"
+                itemscope="itemscope"
+                itemtype="http://schema.org/Offer"
+              >
+                <meta itemprop="price" content="160.00" />
+
+                <meta itemprop="priceCurrency" content="BRL" />
+                <meta
+                  itemprop="availability"
+                  content="http://schema.org/LimitedAvailability"
+                />
+                <meta
+                  itemprop="itemCondition"
+                  itemtype="http://schema.org/OfferItemCondition"
+                  content="http://schema.org/NewCondition"
+                />
+
+                <meta itemprop="sku" content="MP2TLSJ2L-28" />
+                <meta
+                  itemprop="url"
+                  content="https://www.santjordi.com.br/alianca-encapada-envelopada-revestida-reta-3-milimetros-em-ouro-10k?sku=MP2TLSJ2L-28"
+                />
+              </div>
+
+              <div class="comprar">
+                <label class="qtde-adicionar-carrinho" style="width: 135px">
+                  <span class="qtde-carrinho-title">Qtde:</span>
+                  <input
+                    type="number"
+                    min="1"
+                    value="1"
+                    class="qtde-carrinho"
+                    name="qtde-carrinho"
+                  />
+                </label>
+
+                <a
+                  href="https://www.santjordi.com.br/carrinho/produto/69110941/adicionar"
+                  class="botao botao-comprar principal grande botao-comprar-ajax"
+                  rel="nofollow"
+                  data-loading-text="<i class='icon-refresh icon-animate'></i> Comprar"
+                  data-placement="left"
+                >
+                  <i class="icon-shopping-cart"></i> Comprar
+                </a>
+
+                <span class="cor-secundaria disponibilidade-produto">
+                  Estoque:
+                  <b class="cor-principal"> 2 dias úteis </b>
+                </span>
+              </div>
+            </div>
+
+            <div
+              class="acoes-produto hide disponivel SKU-MP2TLSJ2L-27"
+              data-produto-id="69110930"
+              data-variacao-id="138937"
+            >
+              <div>
+                <div class="preco-produto destaque-preco">
+                  <div>
+                    <strong class="preco-promocional cor-principal titulo">
+                      R$ 160,00
+                    </strong>
+                  </div>
+
+
+                  <div>
+                    <span class="preco-parcela">
+                      até
+                      <strong class="cor-secundaria">4x</strong>
+
+                      de
+                      <strong class="cor-secundaria">R$ 42,86</strong>
+                    </span>
+                  </div>
+
+                </div>
+              </div>
+
+              <div
+                itemprop="offers"
+                itemscope="itemscope"
+                itemtype="http://schema.org/Offer"
+              >
+                <meta itemprop="price" content="160.00" />
+
+                <meta itemprop="priceCurrency" content="BRL" />
+                <meta
+                  itemprop="availability"
+                  content="http://schema.org/LimitedAvailability"
+                />
+                <meta
+                  itemprop="itemCondition"
+                  itemtype="http://schema.org/OfferItemCondition"
+                  content="http://schema.org/NewCondition"
+                />
+
+                <meta itemprop="sku" content="MP2TLSJ2L-27" />
+                <meta
+                  itemprop="url"
+                  content="https://www.santjordi.com.br/alianca-encapada-envelopada-revestida-reta-3-milimetros-em-ouro-10k?sku=MP2TLSJ2L-27"
+                />
+              </div>
+
+              <div class="comprar">
+                <label class="qtde-adicionar-carrinho" style="width: 135px">
+                  <span class="qtde-carrinho-title">Qtde:</span>
+                  <input
+                    type="number"
+                    min="1"
+                    value="1"
+                    class="qtde-carrinho"
+                    name="qtde-carrinho"
+                  />
+                </label>
+
+                <a
+                  href="https://www.santjordi.com.br/carrinho/produto/69110930/adicionar"
+                  class="botao botao-comprar principal grande botao-comprar-ajax"
+                  rel="nofollow"
+                  data-loading-text="<i class='icon-refresh icon-animate'></i> Comprar"
+                  data-placement="left"
+                >
+                  <i class="icon-shopping-cart"></i> Comprar
+                </a>
+
+                <span class="cor-secundaria disponibilidade-produto">
+                  Estoque:
+                  <b class="cor-principal"> 2 dias úteis </b>
+                </span>
+              </div>
+            </div>
+
+            <div
+              class="acoes-produto hide disponivel SKU-MP2TLSJ2L-26"
+              data-produto-id="69110900"
+              data-variacao-id="138936"
+            >
+              <div>
+                <div class="preco-produto destaque-preco">
+                  <div>
+                    <strong class="preco-promocional cor-principal titulo">
+                      R$ 160,00
+                    </strong>
+                  </div>
+
+
+                  <div>
+                    <span class="preco-parcela">
+                      até
+                      <strong class="cor-secundaria">4x</strong>
+
+                      de
+                      <strong class="cor-secundaria">R$ 42,86</strong>
+                    </span>
+                  </div>
+
+                </div>
+              </div>
+
+              <div
+                itemprop="offers"
+                itemscope="itemscope"
+                itemtype="http://schema.org/Offer"
+              >
+                <meta itemprop="price" content="160.00" />
+
+                <meta itemprop="priceCurrency" content="BRL" />
+                <meta
+                  itemprop="availability"
+                  content="http://schema.org/LimitedAvailability"
+                />
+                <meta
+                  itemprop="itemCondition"
+                  itemtype="http://schema.org/OfferItemCondition"
+                  content="http://schema.org/NewCondition"
+                />
+
+                <meta itemprop="sku" content="MP2TLSJ2L-26" />
+                <meta
+                  itemprop="url"
+                  content="https://www.santjordi.com.br/alianca-encapada-envelopada-revestida-reta-3-milimetros-em-ouro-10k?sku=MP2TLSJ2L-26"
+                />
+              </div>
+
+              <div class="comprar">
+                <label class="qtde-adicionar-carrinho" style="width: 135px">
+                  <span class="qtde-carrinho-title">Qtde:</span>
+                  <input
+                    type="number"
+                    min="1"
+                    value="1"
+                    class="qtde-carrinho"
+                    name="qtde-carrinho"
+                  />
+                </label>
+
+                <a
+                  href="https://www.santjordi.com.br/carrinho/produto/69110900/adicionar"
+                  class="botao botao-comprar principal grande botao-comprar-ajax"
+                  rel="nofollow"
+                  data-loading-text="<i class='icon-refresh icon-animate'></i> Comprar"
+                  data-placement="left"
+                >
+                  <i class="icon-shopping-cart"></i> Comprar
+                </a>
+
+                <span class="cor-secundaria disponibilidade-produto">
+                  Estoque:
+                  <b class="cor-principal"> 2 dias úteis </b>
+                </span>
+              </div>
+            </div>
+
+            <div
+              class="acoes-produto hide disponivel SKU-MP2TLSJ2L-25"
+              data-produto-id="69110884"
+              data-variacao-id="138935"
+            >
+              <div>
+                <div class="preco-produto destaque-preco">
+                  <div>
+                    <strong class="preco-promocional cor-principal titulo">
+                      R$ 160,00
+                    </strong>
+                  </div>
+
+
+                  <div>
+                    <span class="preco-parcela">
+                      até
+                      <strong class="cor-secundaria">4x</strong>
+
+                      de
+                      <strong class="cor-secundaria">R$ 42,86</strong>
+                    </span>
+                  </div>
+
+                </div>
+              </div>
+
+              <div
+                itemprop="offers"
+                itemscope="itemscope"
+                itemtype="http://schema.org/Offer"
+              >
+                <meta itemprop="price" content="160.00" />
+
+                <meta itemprop="priceCurrency" content="BRL" />
+                <meta
+                  itemprop="availability"
+                  content="http://schema.org/LimitedAvailability"
+                />
+                <meta
+                  itemprop="itemCondition"
+                  itemtype="http://schema.org/OfferItemCondition"
+                  content="http://schema.org/NewCondition"
+                />
+
+                <meta itemprop="sku" content="MP2TLSJ2L-25" />
+                <meta
+                  itemprop="url"
+                  content="https://www.santjordi.com.br/alianca-encapada-envelopada-revestida-reta-3-milimetros-em-ouro-10k?sku=MP2TLSJ2L-25"
+                />
+              </div>
+
+              <div class="comprar">
+                <label class="qtde-adicionar-carrinho" style="width: 135px">
+                  <span class="qtde-carrinho-title">Qtde:</span>
+                  <input
+                    type="number"
+                    min="1"
+                    value="1"
+                    class="qtde-carrinho"
+                    name="qtde-carrinho"
+                  />
+                </label>
+
+                <a
+                  href="https://www.santjordi.com.br/carrinho/produto/69110884/adicionar"
+                  class="botao botao-comprar principal grande botao-comprar-ajax"
+                  rel="nofollow"
+                  data-loading-text="<i class='icon-refresh icon-animate'></i> Comprar"
+                  data-placement="left"
+                >
+                  <i class="icon-shopping-cart"></i> Comprar
+                </a>
+
+                <span class="cor-secundaria disponibilidade-produto">
+                  Estoque:
+                  <b class="cor-principal"> 2 dias úteis </b>
+                </span>
+              </div>
+            </div>
+
+            <div
+              class="acoes-produto hide disponivel SKU-MP2TLSJ2L-24"
+              data-produto-id="69110853"
+              data-variacao-id="138934"
+            >
+              <div>
+                <div class="preco-produto destaque-preco">
+                  <div>
+                    <strong class="preco-promocional cor-principal titulo">
+                      R$ 160,00
+                    </strong>
+                  </div>
+
+
+                  <div>
+                    <span class="preco-parcela">
+                      até
+                      <strong class="cor-secundaria">4x</strong>
+
+                      de
+                      <strong class="cor-secundaria">R$ 42,86</strong>
+                    </span>
+                  </div>
+
+                </div>
+              </div>
+
+              <div
+                itemprop="offers"
+                itemscope="itemscope"
+                itemtype="http://schema.org/Offer"
+              >
+                <meta itemprop="price" content="160.00" />
+
+                <meta itemprop="priceCurrency" content="BRL" />
+                <meta
+                  itemprop="availability"
+                  content="http://schema.org/LimitedAvailability"
+                />
+                <meta
+                  itemprop="itemCondition"
+                  itemtype="http://schema.org/OfferItemCondition"
+                  content="http://schema.org/NewCondition"
+                />
+
+                <meta itemprop="sku" content="MP2TLSJ2L-24" />
+                <meta
+                  itemprop="url"
+                  content="https://www.santjordi.com.br/alianca-encapada-envelopada-revestida-reta-3-milimetros-em-ouro-10k?sku=MP2TLSJ2L-24"
+                />
+              </div>
+
+              <div class="comprar">
+                <label class="qtde-adicionar-carrinho" style="width: 135px">
+                  <span class="qtde-carrinho-title">Qtde:</span>
+                  <input
+                    type="number"
+                    min="1"
+                    value="1"
+                    class="qtde-carrinho"
+                    name="qtde-carrinho"
+                  />
+                </label>
+
+                <a
+                  href="https://www.santjordi.com.br/carrinho/produto/69110853/adicionar"
+                  class="botao botao-comprar principal grande botao-comprar-ajax"
+                  rel="nofollow"
+                  data-loading-text="<i class='icon-refresh icon-animate'></i> Comprar"
+                  data-placement="left"
+                >
+                  <i class="icon-shopping-cart"></i> Comprar
+                </a>
+
+                <span class="cor-secundaria disponibilidade-produto">
+                  Estoque:
+                  <b class="cor-principal"> 2 dias úteis </b>
+                </span>
+              </div>
+            </div>
+
+            <div
+              class="acoes-produto hide disponivel SKU-MP2TLSJ2L-23"
+              data-produto-id="69110834"
+              data-variacao-id="138933"
+            >
+              <div>
+                <div class="preco-produto destaque-preco">
+                  <div>
+                    <strong class="preco-promocional cor-principal titulo">
+                      R$ 160,00
+                    </strong>
+                  </div>
+
+
+                  <div>
+                    <span class="preco-parcela">
+                      até
+                      <strong class="cor-secundaria">4x</strong>
+
+                      de
+                      <strong class="cor-secundaria">R$ 42,86</strong>
+                    </span>
+                  </div>
+
+                </div>
+              </div>
+
+              <div
+                itemprop="offers"
+                itemscope="itemscope"
+                itemtype="http://schema.org/Offer"
+              >
+                <meta itemprop="price" content="160.00" />
+
+                <meta itemprop="priceCurrency" content="BRL" />
+                <meta
+                  itemprop="availability"
+                  content="http://schema.org/LimitedAvailability"
+                />
+                <meta
+                  itemprop="itemCondition"
+                  itemtype="http://schema.org/OfferItemCondition"
+                  content="http://schema.org/NewCondition"
+                />
+
+                <meta itemprop="sku" content="MP2TLSJ2L-23" />
+                <meta
+                  itemprop="url"
+                  content="https://www.santjordi.com.br/alianca-encapada-envelopada-revestida-reta-3-milimetros-em-ouro-10k?sku=MP2TLSJ2L-23"
+                />
+              </div>
+
+              <div class="comprar">
+                <label class="qtde-adicionar-carrinho" style="width: 135px">
+                  <span class="qtde-carrinho-title">Qtde:</span>
+                  <input
+                    type="number"
+                    min="1"
+                    value="1"
+                    class="qtde-carrinho"
+                    name="qtde-carrinho"
+                  />
+                </label>
+
+                <a
+                  href="https://www.santjordi.com.br/carrinho/produto/69110834/adicionar"
+                  class="botao botao-comprar principal grande botao-comprar-ajax"
+                  rel="nofollow"
+                  data-loading-text="<i class='icon-refresh icon-animate'></i> Comprar"
+                  data-placement="left"
+                >
+                  <i class="icon-shopping-cart"></i> Comprar
+                </a>
+
+                <span class="cor-secundaria disponibilidade-produto">
+                  Estoque:
+                  <b class="cor-principal"> 2 dias úteis </b>
+                </span>
+              </div>
+            </div>
+
+            <div
+              class="acoes-produto hide disponivel SKU-MP2TLSJ2L-22"
+              data-produto-id="69110800"
+              data-variacao-id="138932"
+            >
+              <div>
+                <div class="preco-produto destaque-preco">
+                  <div>
+                    <strong class="preco-promocional cor-principal titulo">
+                      R$ 160,00
+                    </strong>
+                  </div>
+
+
+                  <div>
+                    <span class="preco-parcela">
+                      até
+                      <strong class="cor-secundaria">4x</strong>
+
+                      de
+                      <strong class="cor-secundaria">R$ 42,86</strong>
+                    </span>
+                  </div>
+
+                </div>
+              </div>
+
+              <div
+                itemprop="offers"
+                itemscope="itemscope"
+                itemtype="http://schema.org/Offer"
+              >
+                <meta itemprop="price" content="160.00" />
+
+                <meta itemprop="priceCurrency" content="BRL" />
+                <meta
+                  itemprop="availability"
+                  content="http://schema.org/LimitedAvailability"
+                />
+                <meta
+                  itemprop="itemCondition"
+                  itemtype="http://schema.org/OfferItemCondition"
+                  content="http://schema.org/NewCondition"
+                />
+
+                <meta itemprop="sku" content="MP2TLSJ2L-22" />
+                <meta
+                  itemprop="url"
+                  content="https://www.santjordi.com.br/alianca-encapada-envelopada-revestida-reta-3-milimetros-em-ouro-10k?sku=MP2TLSJ2L-22"
+                />
+              </div>
+
+              <div class="comprar">
+                <label class="qtde-adicionar-carrinho" style="width: 135px">
+                  <span class="qtde-carrinho-title">Qtde:</span>
+                  <input
+                    type="number"
+                    min="1"
+                    value="1"
+                    class="qtde-carrinho"
+                    name="qtde-carrinho"
+                  />
+                </label>
+
+                <a
+                  href="https://www.santjordi.com.br/carrinho/produto/69110800/adicionar"
+                  class="botao botao-comprar principal grande botao-comprar-ajax"
+                  rel="nofollow"
+                  data-loading-text="<i class='icon-refresh icon-animate'></i> Comprar"
+                  data-placement="left"
+                >
+                  <i class="icon-shopping-cart"></i> Comprar
+                </a>
+
+                <span class="cor-secundaria disponibilidade-produto">
+                  Estoque:
+                  <b class="cor-principal"> 2 dias úteis </b>
+                </span>
+              </div>
+            </div>
+
+            <div
+              class="acoes-produto hide disponivel SKU-MP2TLSJ2L-21"
+              data-produto-id="69110785"
+              data-variacao-id="138931"
+            >
+              <div>
+                <div class="preco-produto destaque-preco">
+                  <div>
+                    <strong class="preco-promocional cor-principal titulo">
+                      R$ 160,00
+                    </strong>
+                  </div>
+
+
+                  <div>
+                    <span class="preco-parcela">
+                      até
+                      <strong class="cor-secundaria">4x</strong>
+
+                      de
+                      <strong class="cor-secundaria">R$ 42,86</strong>
+                    </span>
+                  </div>
+
+                </div>
+              </div>
+
+              <div
+                itemprop="offers"
+                itemscope="itemscope"
+                itemtype="http://schema.org/Offer"
+              >
+                <meta itemprop="price" content="160.00" />
+
+                <meta itemprop="priceCurrency" content="BRL" />
+                <meta
+                  itemprop="availability"
+                  content="http://schema.org/LimitedAvailability"
+                />
+                <meta
+                  itemprop="itemCondition"
+                  itemtype="http://schema.org/OfferItemCondition"
+                  content="http://schema.org/NewCondition"
+                />
+
+                <meta itemprop="sku" content="MP2TLSJ2L-21" />
+                <meta
+                  itemprop="url"
+                  content="https://www.santjordi.com.br/alianca-encapada-envelopada-revestida-reta-3-milimetros-em-ouro-10k?sku=MP2TLSJ2L-21"
+                />
+              </div>
+
+              <div class="comprar">
+                <label class="qtde-adicionar-carrinho" style="width: 135px">
+                  <span class="qtde-carrinho-title">Qtde:</span>
+                  <input
+                    type="number"
+                    min="1"
+                    value="1"
+                    class="qtde-carrinho"
+                    name="qtde-carrinho"
+                  />
+                </label>
+
+                <a
+                  href="https://www.santjordi.com.br/carrinho/produto/69110785/adicionar"
+                  class="botao botao-comprar principal grande botao-comprar-ajax"
+                  rel="nofollow"
+                  data-loading-text="<i class='icon-refresh icon-animate'></i> Comprar"
+                  data-placement="left"
+                >
+                  <i class="icon-shopping-cart"></i> Comprar
+                </a>
+
+                <span class="cor-secundaria disponibilidade-produto">
+                  Estoque:
+                  <b class="cor-principal"> 2 dias úteis </b>
+                </span>
+              </div>
+            </div>
+
+            <div
+              class="acoes-produto hide disponivel SKU-MP2TLSJ2L-20"
+              data-produto-id="69110761"
+              data-variacao-id="138930"
+            >
+              <div>
+                <div class="preco-produto destaque-preco">
+                  <div>
+                    <strong class="preco-promocional cor-principal titulo">
+                      R$ 160,00
+                    </strong>
+                  </div>
+
+
+                  <div>
+                    <span class="preco-parcela">
+                      até
+                      <strong class="cor-secundaria">4x</strong>
+
+                      de
+                      <strong class="cor-secundaria">R$ 42,86</strong>
+                    </span>
+                  </div>
+
+                </div>
+              </div>
+
+              <div
+                itemprop="offers"
+                itemscope="itemscope"
+                itemtype="http://schema.org/Offer"
+              >
+                <meta itemprop="price" content="160.00" />
+
+                <meta itemprop="priceCurrency" content="BRL" />
+                <meta
+                  itemprop="availability"
+                  content="http://schema.org/LimitedAvailability"
+                />
+                <meta
+                  itemprop="itemCondition"
+                  itemtype="http://schema.org/OfferItemCondition"
+                  content="http://schema.org/NewCondition"
+                />
+
+                <meta itemprop="sku" content="MP2TLSJ2L-20" />
+                <meta
+                  itemprop="url"
+                  content="https://www.santjordi.com.br/alianca-encapada-envelopada-revestida-reta-3-milimetros-em-ouro-10k?sku=MP2TLSJ2L-20"
+                />
+              </div>
+
+              <div class="comprar">
+                <label class="qtde-adicionar-carrinho" style="width: 135px">
+                  <span class="qtde-carrinho-title">Qtde:</span>
+                  <input
+                    type="number"
+                    min="1"
+                    value="1"
+                    class="qtde-carrinho"
+                    name="qtde-carrinho"
+                  />
+                </label>
+
+                <a
+                  href="https://www.santjordi.com.br/carrinho/produto/69110761/adicionar"
+                  class="botao botao-comprar principal grande botao-comprar-ajax"
+                  rel="nofollow"
+                  data-loading-text="<i class='icon-refresh icon-animate'></i> Comprar"
+                  data-placement="left"
+                >
+                  <i class="icon-shopping-cart"></i> Comprar
+                </a>
+
+                <span class="cor-secundaria disponibilidade-produto">
+                  Estoque:
+                  <b class="cor-principal"> 2 dias úteis </b>
+                </span>
+              </div>
+            </div>
+
+            <div
+              class="acoes-produto hide disponivel SKU-MP2TLSJ2L-19"
+              data-produto-id="69110730"
+              data-variacao-id="138929"
+            >
+              <div>
+                <div class="preco-produto destaque-preco">
+                  <div>
+                    <strong class="preco-promocional cor-principal titulo">
+                      R$ 160,00
+                    </strong>
+                  </div>
+
+
+                  <div>
+                    <span class="preco-parcela">
+                      até
+                      <strong class="cor-secundaria">4x</strong>
+
+                      de
+                      <strong class="cor-secundaria">R$ 42,86</strong>
+                    </span>
+                  </div>
+
+                </div>
+              </div>
+
+              <div
+                itemprop="offers"
+                itemscope="itemscope"
+                itemtype="http://schema.org/Offer"
+              >
+                <meta itemprop="price" content="160.00" />
+
+                <meta itemprop="priceCurrency" content="BRL" />
+                <meta
+                  itemprop="availability"
+                  content="http://schema.org/LimitedAvailability"
+                />
+                <meta
+                  itemprop="itemCondition"
+                  itemtype="http://schema.org/OfferItemCondition"
+                  content="http://schema.org/NewCondition"
+                />
+
+                <meta itemprop="sku" content="MP2TLSJ2L-19" />
+                <meta
+                  itemprop="url"
+                  content="https://www.santjordi.com.br/alianca-encapada-envelopada-revestida-reta-3-milimetros-em-ouro-10k?sku=MP2TLSJ2L-19"
+                />
+              </div>
+
+              <div class="comprar">
+                <label class="qtde-adicionar-carrinho" style="width: 135px">
+                  <span class="qtde-carrinho-title">Qtde:</span>
+                  <input
+                    type="number"
+                    min="1"
+                    value="1"
+                    class="qtde-carrinho"
+                    name="qtde-carrinho"
+                  />
+                </label>
+
+                <a
+                  href="https://www.santjordi.com.br/carrinho/produto/69110730/adicionar"
+                  class="botao botao-comprar principal grande botao-comprar-ajax"
+                  rel="nofollow"
+                  data-loading-text="<i class='icon-refresh icon-animate'></i> Comprar"
+                  data-placement="left"
+                >
+                  <i class="icon-shopping-cart"></i> Comprar
+                </a>
+
+                <span class="cor-secundaria disponibilidade-produto">
+                  Estoque:
+                  <b class="cor-principal"> 2 dias úteis </b>
+                </span>
+              </div>
+            </div>
+
+            <div
+              class="acoes-produto hide disponivel SKU-MP2TLSJ2L-18"
+              data-produto-id="69110714"
+              data-variacao-id="138928"
+            >
+              <div>
+                <div class="preco-produto destaque-preco">
+                  <div>
+                    <strong class="preco-promocional cor-principal titulo">
+                      R$ 160,00
+                    </strong>
+                  </div>
+
+
+                  <div>
+                    <span class="preco-parcela">
+                      até
+                      <strong class="cor-secundaria">4x</strong>
+
+                      de
+                      <strong class="cor-secundaria">R$ 42,86</strong>
+                    </span>
+                  </div>
+
+                </div>
+              </div>
+
+              <div
+                itemprop="offers"
+                itemscope="itemscope"
+                itemtype="http://schema.org/Offer"
+              >
+                <meta itemprop="price" content="160.00" />
+
+                <meta itemprop="priceCurrency" content="BRL" />
+                <meta
+                  itemprop="availability"
+                  content="http://schema.org/LimitedAvailability"
+                />
+                <meta
+                  itemprop="itemCondition"
+                  itemtype="http://schema.org/OfferItemCondition"
+                  content="http://schema.org/NewCondition"
+                />
+
+                <meta itemprop="sku" content="MP2TLSJ2L-18" />
+                <meta
+                  itemprop="url"
+                  content="https://www.santjordi.com.br/alianca-encapada-envelopada-revestida-reta-3-milimetros-em-ouro-10k?sku=MP2TLSJ2L-18"
+                />
+              </div>
+
+              <div class="comprar">
+                <label class="qtde-adicionar-carrinho" style="width: 135px">
+                  <span class="qtde-carrinho-title">Qtde:</span>
+                  <input
+                    type="number"
+                    min="1"
+                    value="1"
+                    class="qtde-carrinho"
+                    name="qtde-carrinho"
+                  />
+                </label>
+
+                <a
+                  href="https://www.santjordi.com.br/carrinho/produto/69110714/adicionar"
+                  class="botao botao-comprar principal grande botao-comprar-ajax"
+                  rel="nofollow"
+                  data-loading-text="<i class='icon-refresh icon-animate'></i> Comprar"
+                  data-placement="left"
+                >
+                  <i class="icon-shopping-cart"></i> Comprar
+                </a>
+
+                <span class="cor-secundaria disponibilidade-produto">
+                  Estoque:
+                  <b class="cor-principal"> 2 dias úteis </b>
+                </span>
+              </div>
+            </div>
+
+            <div
+              class="acoes-produto hide disponivel SKU-MP2TLSJ2L-17"
+              data-produto-id="69110701"
+              data-variacao-id="138927"
+            >
+              <div>
+                <div class="preco-produto destaque-preco">
+                  <div>
+                    <strong class="preco-promocional cor-principal titulo">
+                      R$ 160,00
+                    </strong>
+                  </div>
+
+
+                  <div>
+                    <span class="preco-parcela">
+                      até
+                      <strong class="cor-secundaria">4x</strong>
+
+                      de
+                      <strong class="cor-secundaria">R$ 42,86</strong>
+                    </span>
+                  </div>
+
+                </div>
+              </div>
+
+              <div
+                itemprop="offers"
+                itemscope="itemscope"
+                itemtype="http://schema.org/Offer"
+              >
+                <meta itemprop="price" content="160.00" />
+
+                <meta itemprop="priceCurrency" content="BRL" />
+                <meta
+                  itemprop="availability"
+                  content="http://schema.org/LimitedAvailability"
+                />
+                <meta
+                  itemprop="itemCondition"
+                  itemtype="http://schema.org/OfferItemCondition"
+                  content="http://schema.org/NewCondition"
+                />
+
+                <meta itemprop="sku" content="MP2TLSJ2L-17" />
+                <meta
+                  itemprop="url"
+                  content="https://www.santjordi.com.br/alianca-encapada-envelopada-revestida-reta-3-milimetros-em-ouro-10k?sku=MP2TLSJ2L-17"
+                />
+              </div>
+
+              <div class="comprar">
+                <label class="qtde-adicionar-carrinho" style="width: 135px">
+                  <span class="qtde-carrinho-title">Qtde:</span>
+                  <input
+                    type="number"
+                    min="1"
+                    value="1"
+                    class="qtde-carrinho"
+                    name="qtde-carrinho"
+                  />
+                </label>
+
+                <a
+                  href="https://www.santjordi.com.br/carrinho/produto/69110701/adicionar"
+                  class="botao botao-comprar principal grande botao-comprar-ajax"
+                  rel="nofollow"
+                  data-loading-text="<i class='icon-refresh icon-animate'></i> Comprar"
+                  data-placement="left"
+                >
+                  <i class="icon-shopping-cart"></i> Comprar
+                </a>
+
+                <span class="cor-secundaria disponibilidade-produto">
+                  Estoque:
+                  <b class="cor-principal"> 2 dias úteis </b>
+                </span>
+              </div>
+            </div>
+
+            <div
+              class="acoes-produto hide disponivel SKU-MP2TLSJ2L-16"
+              data-produto-id="69110679"
+              data-variacao-id="138926"
+            >
+              <div>
+                <div class="preco-produto destaque-preco">
+                  <div>
+                    <strong class="preco-promocional cor-principal titulo">
+                      R$ 160,00
+                    </strong>
+                  </div>
+
+
+                  <div>
+                    <span class="preco-parcela">
+                      até
+                      <strong class="cor-secundaria">4x</strong>
+
+                      de
+                      <strong class="cor-secundaria">R$ 42,86</strong>
+                    </span>
+                  </div>
+
+                </div>
+              </div>
+
+              <div
+                itemprop="offers"
+                itemscope="itemscope"
+                itemtype="http://schema.org/Offer"
+              >
+                <meta itemprop="price" content="160.00" />
+
+                <meta itemprop="priceCurrency" content="BRL" />
+                <meta
+                  itemprop="availability"
+                  content="http://schema.org/LimitedAvailability"
+                />
+                <meta
+                  itemprop="itemCondition"
+                  itemtype="http://schema.org/OfferItemCondition"
+                  content="http://schema.org/NewCondition"
+                />
+
+                <meta itemprop="sku" content="MP2TLSJ2L-16" />
+                <meta
+                  itemprop="url"
+                  content="https://www.santjordi.com.br/alianca-encapada-envelopada-revestida-reta-3-milimetros-em-ouro-10k?sku=MP2TLSJ2L-16"
+                />
+              </div>
+
+              <div class="comprar">
+                <label class="qtde-adicionar-carrinho" style="width: 135px">
+                  <span class="qtde-carrinho-title">Qtde:</span>
+                  <input
+                    type="number"
+                    min="1"
+                    value="1"
+                    class="qtde-carrinho"
+                    name="qtde-carrinho"
+                  />
+                </label>
+
+                <a
+                  href="https://www.santjordi.com.br/carrinho/produto/69110679/adicionar"
+                  class="botao botao-comprar principal grande botao-comprar-ajax"
+                  rel="nofollow"
+                  data-loading-text="<i class='icon-refresh icon-animate'></i> Comprar"
+                  data-placement="left"
+                >
+                  <i class="icon-shopping-cart"></i> Comprar
+                </a>
+
+                <span class="cor-secundaria disponibilidade-produto">
+                  Estoque:
+                  <b class="cor-principal"> 2 dias úteis </b>
+                </span>
+              </div>
+            </div>
+
+            <div
+              class="acoes-produto hide disponivel SKU-MP2TLSJ2L-15"
+              data-produto-id="69110661"
+              data-variacao-id="138925"
+            >
+              <div>
+                <div class="preco-produto destaque-preco">
+                  <div>
+                    <strong class="preco-promocional cor-principal titulo">
+                      R$ 160,00
+                    </strong>
+                  </div>
+
+
+                  <div>
+                    <span class="preco-parcela">
+                      até
+                      <strong class="cor-secundaria">4x</strong>
+
+                      de
+                      <strong class="cor-secundaria">R$ 42,86</strong>
+                    </span>
+                  </div>
+
+                </div>
+              </div>
+
+              <div
+                itemprop="offers"
+                itemscope="itemscope"
+                itemtype="http://schema.org/Offer"
+              >
+                <meta itemprop="price" content="160.00" />
+
+                <meta itemprop="priceCurrency" content="BRL" />
+                <meta
+                  itemprop="availability"
+                  content="http://schema.org/LimitedAvailability"
+                />
+                <meta
+                  itemprop="itemCondition"
+                  itemtype="http://schema.org/OfferItemCondition"
+                  content="http://schema.org/NewCondition"
+                />
+
+                <meta itemprop="sku" content="MP2TLSJ2L-15" />
+                <meta
+                  itemprop="url"
+                  content="https://www.santjordi.com.br/alianca-encapada-envelopada-revestida-reta-3-milimetros-em-ouro-10k?sku=MP2TLSJ2L-15"
+                />
+              </div>
+
+              <div class="comprar">
+                <label class="qtde-adicionar-carrinho" style="width: 135px">
+                  <span class="qtde-carrinho-title">Qtde:</span>
+                  <input
+                    type="number"
+                    min="1"
+                    value="1"
+                    class="qtde-carrinho"
+                    name="qtde-carrinho"
+                  />
+                </label>
+
+                <a
+                  href="https://www.santjordi.com.br/carrinho/produto/69110661/adicionar"
+                  class="botao botao-comprar principal grande botao-comprar-ajax"
+                  rel="nofollow"
+                  data-loading-text="<i class='icon-refresh icon-animate'></i> Comprar"
+                  data-placement="left"
+                >
+                  <i class="icon-shopping-cart"></i> Comprar
+                </a>
+
+                <span class="cor-secundaria disponibilidade-produto">
+                  Estoque:
+                  <b class="cor-principal"> 2 dias úteis </b>
+                </span>
+              </div>
+            </div>
+
+            <div
+              class="acoes-produto hide disponivel SKU-MP2TLSJ2L-14"
+              data-produto-id="69110645"
+              data-variacao-id="138924"
+            >
+              <div>
+                <div class="preco-produto destaque-preco">
+                  <div>
+                    <strong class="preco-promocional cor-principal titulo">
+                      R$ 160,00
+                    </strong>
+                  </div>
+
+
+                  <div>
+                    <span class="preco-parcela">
+                      até
+                      <strong class="cor-secundaria">4x</strong>
+
+                      de
+                      <strong class="cor-secundaria">R$ 42,86</strong>
+                    </span>
+                  </div>
+
+                </div>
+              </div>
+
+              <div
+                itemprop="offers"
+                itemscope="itemscope"
+                itemtype="http://schema.org/Offer"
+              >
+                <meta itemprop="price" content="160.00" />
+
+                <meta itemprop="priceCurrency" content="BRL" />
+                <meta
+                  itemprop="availability"
+                  content="http://schema.org/LimitedAvailability"
+                />
+                <meta
+                  itemprop="itemCondition"
+                  itemtype="http://schema.org/OfferItemCondition"
+                  content="http://schema.org/NewCondition"
+                />
+
+                <meta itemprop="sku" content="MP2TLSJ2L-14" />
+                <meta
+                  itemprop="url"
+                  content="https://www.santjordi.com.br/alianca-encapada-envelopada-revestida-reta-3-milimetros-em-ouro-10k?sku=MP2TLSJ2L-14"
+                />
+              </div>
+
+              <div class="comprar">
+                <label class="qtde-adicionar-carrinho" style="width: 135px">
+                  <span class="qtde-carrinho-title">Qtde:</span>
+                  <input
+                    type="number"
+                    min="1"
+                    value="1"
+                    class="qtde-carrinho"
+                    name="qtde-carrinho"
+                  />
+                </label>
+
+                <a
+                  href="https://www.santjordi.com.br/carrinho/produto/69110645/adicionar"
+                  class="botao botao-comprar principal grande botao-comprar-ajax"
+                  rel="nofollow"
+                  data-loading-text="<i class='icon-refresh icon-animate'></i> Comprar"
+                  data-placement="left"
+                >
+                  <i class="icon-shopping-cart"></i> Comprar
+                </a>
+
+                <span class="cor-secundaria disponibilidade-produto">
+                  Estoque:
+                  <b class="cor-principal"> 2 dias úteis </b>
+                </span>
+              </div>
+            </div>
+
+            <div
+              class="acoes-produto hide disponivel SKU-MP2TLSJ2L-13"
+              data-produto-id="69110596"
+              data-variacao-id="138923"
+            >
+              <div>
+                <div class="preco-produto destaque-preco">
+                  <div>
+                    <strong class="preco-promocional cor-principal titulo">
+                      R$ 160,00
+                    </strong>
+                  </div>
+
+
+                  <div>
+                    <span class="preco-parcela">
+                      até
+                      <strong class="cor-secundaria">4x</strong>
+
+                      de
+                      <strong class="cor-secundaria">R$ 42,86</strong>
+                    </span>
+                  </div>
+
+                </div>
+              </div>
+
+              <div
+                itemprop="offers"
+                itemscope="itemscope"
+                itemtype="http://schema.org/Offer"
+              >
+                <meta itemprop="price" content="160.00" />
+
+                <meta itemprop="priceCurrency" content="BRL" />
+                <meta
+                  itemprop="availability"
+                  content="http://schema.org/LimitedAvailability"
+                />
+                <meta
+                  itemprop="itemCondition"
+                  itemtype="http://schema.org/OfferItemCondition"
+                  content="http://schema.org/NewCondition"
+                />
+
+                <meta itemprop="sku" content="MP2TLSJ2L-13" />
+                <meta
+                  itemprop="url"
+                  content="https://www.santjordi.com.br/alianca-encapada-envelopada-revestida-reta-3-milimetros-em-ouro-10k?sku=MP2TLSJ2L-13"
+                />
+              </div>
+
+              <div class="comprar">
+                <label class="qtde-adicionar-carrinho" style="width: 135px">
+                  <span class="qtde-carrinho-title">Qtde:</span>
+                  <input
+                    type="number"
+                    min="1"
+                    value="1"
+                    class="qtde-carrinho"
+                    name="qtde-carrinho"
+                  />
+                </label>
+
+                <a
+                  href="https://www.santjordi.com.br/carrinho/produto/69110596/adicionar"
+                  class="botao botao-comprar principal grande botao-comprar-ajax"
+                  rel="nofollow"
+                  data-loading-text="<i class='icon-refresh icon-animate'></i> Comprar"
+                  data-placement="left"
+                >
+                  <i class="icon-shopping-cart"></i> Comprar
+                </a>
+
+                <span class="cor-secundaria disponibilidade-produto">
+                  Estoque:
+                  <b class="cor-principal"> 2 dias úteis </b>
+                </span>
+              </div>
+            </div>
+
+            <div
+              class="acoes-produto hide disponivel SKU-MP2TLSJ2L-12"
+              data-produto-id="69110580"
+              data-variacao-id="138922"
+            >
+              <div>
+                <div class="preco-produto destaque-preco">
+                  <div>
+                    <strong class="preco-promocional cor-principal titulo">
+                      R$ 160,00
+                    </strong>
+                  </div>
+
+
+                  <div>
+                    <span class="preco-parcela">
+                      até
+                      <strong class="cor-secundaria">4x</strong>
+
+                      de
+                      <strong class="cor-secundaria">R$ 42,86</strong>
+                    </span>
+                  </div>
+
+                </div>
+              </div>
+
+              <div
+                itemprop="offers"
+                itemscope="itemscope"
+                itemtype="http://schema.org/Offer"
+              >
+                <meta itemprop="price" content="160.00" />
+
+                <meta itemprop="priceCurrency" content="BRL" />
+                <meta
+                  itemprop="availability"
+                  content="http://schema.org/LimitedAvailability"
+                />
+                <meta
+                  itemprop="itemCondition"
+                  itemtype="http://schema.org/OfferItemCondition"
+                  content="http://schema.org/NewCondition"
+                />
+
+                <meta itemprop="sku" content="MP2TLSJ2L-12" />
+                <meta
+                  itemprop="url"
+                  content="https://www.santjordi.com.br/alianca-encapada-envelopada-revestida-reta-3-milimetros-em-ouro-10k?sku=MP2TLSJ2L-12"
+                />
+              </div>
+
+              <div class="comprar">
+                <label class="qtde-adicionar-carrinho" style="width: 135px">
+                  <span class="qtde-carrinho-title">Qtde:</span>
+                  <input
+                    type="number"
+                    min="1"
+                    value="1"
+                    class="qtde-carrinho"
+                    name="qtde-carrinho"
+                  />
+                </label>
+
+                <a
+                  href="https://www.santjordi.com.br/carrinho/produto/69110580/adicionar"
+                  class="botao botao-comprar principal grande botao-comprar-ajax"
+                  rel="nofollow"
+                  data-loading-text="<i class='icon-refresh icon-animate'></i> Comprar"
+                  data-placement="left"
+                >
+                  <i class="icon-shopping-cart"></i> Comprar
+                </a>
+
+                <span class="cor-secundaria disponibilidade-produto">
+                  Estoque:
+                  <b class="cor-principal"> 2 dias úteis </b>
+                </span>
+              </div>
+            </div>
+
+            <div
+              class="acoes-produto hide disponivel SKU-MP2TLSJ2L-11"
+              data-produto-id="69110544"
+              data-variacao-id="138921"
+            >
+              <div>
+                <div class="preco-produto destaque-preco">
+                  <div>
+                    <strong class="preco-promocional cor-principal titulo">
+                      R$ 160,00
+                    </strong>
+                  </div>
+
+
+                  <div>
+                    <span class="preco-parcela">
+                      até
+                      <strong class="cor-secundaria">4x</strong>
+
+                      de
+                      <strong class="cor-secundaria">R$ 42,86</strong>
+                    </span>
+                  </div>
+
+                </div>
+              </div>
+
+              <div
+                itemprop="offers"
+                itemscope="itemscope"
+                itemtype="http://schema.org/Offer"
+              >
+                <meta itemprop="price" content="160.00" />
+
+                <meta itemprop="priceCurrency" content="BRL" />
+                <meta
+                  itemprop="availability"
+                  content="http://schema.org/LimitedAvailability"
+                />
+                <meta
+                  itemprop="itemCondition"
+                  itemtype="http://schema.org/OfferItemCondition"
+                  content="http://schema.org/NewCondition"
+                />
+
+                <meta itemprop="sku" content="MP2TLSJ2L-11" />
+                <meta
+                  itemprop="url"
+                  content="https://www.santjordi.com.br/alianca-encapada-envelopada-revestida-reta-3-milimetros-em-ouro-10k?sku=MP2TLSJ2L-11"
+                />
+              </div>
+
+              <div class="comprar">
+                <label class="qtde-adicionar-carrinho" style="width: 135px">
+                  <span class="qtde-carrinho-title">Qtde:</span>
+                  <input
+                    type="number"
+                    min="1"
+                    value="1"
+                    class="qtde-carrinho"
+                    name="qtde-carrinho"
+                  />
+                </label>
+
+                <a
+                  href="https://www.santjordi.com.br/carrinho/produto/69110544/adicionar"
+                  class="botao botao-comprar principal grande botao-comprar-ajax"
+                  rel="nofollow"
+                  data-loading-text="<i class='icon-refresh icon-animate'></i> Comprar"
+                  data-placement="left"
+                >
+                  <i class="icon-shopping-cart"></i> Comprar
+                </a>
+
+                <span class="cor-secundaria disponibilidade-produto">
+                  Estoque:
+                  <b class="cor-principal"> 2 dias úteis </b>
+                </span>
+              </div>
+            </div>
+
+            <div
+              class="acoes-produto hide disponivel SKU-MP2TLSJ2L-10"
+              data-produto-id="69110436"
+              data-variacao-id="138920"
+            >
+              <div>
+                <div class="preco-produto destaque-preco">
+                  <div>
+                    <strong class="preco-promocional cor-principal titulo">
+                      R$ 160,00
+                    </strong>
+                  </div>
+
+
+                  <div>
+                    <span class="preco-parcela">
+                      até
+                      <strong class="cor-secundaria">4x</strong>
+
+                      de
+                      <strong class="cor-secundaria">R$ 42,86</strong>
+                    </span>
+                  </div>
+
+                </div>
+              </div>
+
+              <div
+                itemprop="offers"
+                itemscope="itemscope"
+                itemtype="http://schema.org/Offer"
+              >
+                <meta itemprop="price" content="160.00" />
+
+                <meta itemprop="priceCurrency" content="BRL" />
+                <meta
+                  itemprop="availability"
+                  content="http://schema.org/LimitedAvailability"
+                />
+                <meta
+                  itemprop="itemCondition"
+                  itemtype="http://schema.org/OfferItemCondition"
+                  content="http://schema.org/NewCondition"
+                />
+
+                <meta itemprop="sku" content="MP2TLSJ2L-10" />
+                <meta
+                  itemprop="url"
+                  content="https://www.santjordi.com.br/alianca-encapada-envelopada-revestida-reta-3-milimetros-em-ouro-10k?sku=MP2TLSJ2L-10"
+                />
+              </div>
+
+              <div class="comprar">
+                <label class="qtde-adicionar-carrinho" style="width: 135px">
+                  <span class="qtde-carrinho-title">Qtde:</span>
+                  <input
+                    type="number"
+                    min="1"
+                    value="1"
+                    class="qtde-carrinho"
+                    name="qtde-carrinho"
+                  />
+                </label>
+
+                <a
+                  href="https://www.santjordi.com.br/carrinho/produto/69110436/adicionar"
+                  class="botao botao-comprar principal grande botao-comprar-ajax"
+                  rel="nofollow"
+                  data-loading-text="<i class='icon-refresh icon-animate'></i> Comprar"
+                  data-placement="left"
+                >
+                  <i class="icon-shopping-cart"></i> Comprar
+                </a>
+
+                <span class="cor-secundaria disponibilidade-produto">
+                  Estoque:
+                  <b class="cor-principal"> 2 dias úteis </b>
+                </span>
+              </div>
+            </div>
+
+            <div
+              class="acoes-produto SKU-MP2TLSJ2L"
+              data-produto-id="69110028"
+              data-variacao-id=""
+            >
+              <div>
+                <div class="preco-produto destaque-preco">
+                  <div>
+                    <strong class="preco-promocional cor-principal titulo">
+                      R$ 160,00
+                    </strong>
+                  </div>
+
+
+                  <div>
+                    <span class="preco-parcela">
+                      até
+                      <strong class="cor-secundaria">4x</strong>
+
+                      de
+                      <strong class="cor-secundaria">R$ 42,86</strong>
+                    </span>
+                  </div>
+
+                </div>
+              </div>
+
+              <div class="comprar">
+                <a
+                  href="javascript:;"
+                  class="botao botao-comprar principal grande desativo with-popover"
+                  rel="popover"
+                  data-placement="left"
+                  data-trigger="hover"
+                  data-content="Selecione uma opção de atributo disponível."
+                  data-original-title="IMPORTANTE"
+                >
+                  <i class="icon-shopping-cart"></i> Comprar
+                </a>
+              </div>
+            </div>
+
+            <span id="DelimiterFloat"></span>
+
+
+            <div class="cep">
+              <form id="formCalcularCep">
+                <input type="hidden" name="produto_id" value="" />
+                <label for="CEP">Calcule o frete</label>
+                <div class="form-inline">
+                  <div class="input-append input-prepend">
+                    <input
+                      name="cep"
+                      class="input-small input-cep"
+                      type="tel"
+                      placeholder="CEP"
+                      maxlength="9"
+                    />
+                    <button type="submit" class="btn">OK</button>
+                  </div>
+                  <a
+                    href="http://www.buscacep.correios.com.br/sistemas/buscacep/"
+                    title="Busca cep nos Correios"
+                    target="_blank"
+                    class="hide"
+                  >
+                    <i class="icon-question-sign"></i>&nbsp; Não sei meu CEP
+                  </a>
+                </div>
+              </form>
+              <ul class="hide borda-alpha"></ul>
+              <div class="aviso-disponibilidade hide cor-principal">
+                * Este prazo de entrega está considerando a disponibilidade do
+                produto + prazo de entrega.
+              </div>
+            </div>
+
+          </div>
+        </div>
+      </div>
+
+      <div class="row-fluid">
+        <div class="span12">
+          <div id="smarthint-product-position1"></div>
+          <div id="blank-product-position1"></div>
+          <div class="abas-custom">
+            <div class="tab-content">
+              <div
+                class="tab-pane active"
+                id="descricao"
+                itemprop="description"
+              >
+                <p
+                  style="
+                    margin: 0px 0px 10px;
+                    padding: 0px;
+                    color: rgb(102, 102, 102);
+                    font-family: 'Open Sans', sans-serif;
+                    font-size: 12px;
+                    background-color: rgb(255, 255, 255);
+                  "
+                >
+                  <strong style="margin: 0px; padding: 0px"
+                    >Aliança Encapada - Envelopada - Revestida reta 3
+                    milímetros</strong
+                  >
+                </p>
+
+                <p
+                  style="
+                    margin: 0px 0px 10px;
+                    padding: 0px;
+                    color: rgb(102, 102, 102);
+                    font-family: 'Open Sans', sans-serif;
+                    font-size: 12px;
+                    background-color: rgb(255, 255, 255);
+                  "
+                >
+                  <strong style="margin: 0px; padding: 0px">Descrição:</strong>
+                </p>
+
+                <p
+                  style="
+                    margin: 0px 0px 10px;
+                    padding: 0px;
+                    color: rgb(102, 102, 102);
+                    font-family: 'Open Sans', sans-serif;
+                    font-size: 12px;
+                    background-color: rgb(255, 255, 255);
+                  "
+                >
+                  <strong style="margin: 0px; padding: 0px"
+                    >* Peso Médio: 2.7&nbsp;gramas (unidadade)</strong
+                  >
+                </p>
+
+                <p
+                  style="
+                    margin: 0px 0px 10px;
+                    padding: 0px;
+                    color: rgb(102, 102, 102);
+                    font-family: 'Open Sans', sans-serif;
+                    font-size: 12px;
+                    background-color: rgb(255, 255, 255);
+                  "
+                >
+                  <strong style="margin: 0px; padding: 0px"
+                    >* Quantidade de ouro revestido: 0,9&nbsp;grama
+                    (unidade)</strong
+                  >
+                </p>
+
+                <p
+                  style="
+                    margin: 0px 0px 10px;
+                    padding: 0px;
+                    color: rgb(102, 102, 102);
+                    font-family: 'Open Sans', sans-serif;
+                    font-size: 12px;
+                    background-color: rgb(255, 255, 255);
+                  "
+                >
+                  <strong style="margin: 0px; padding: 0px"
+                    >* Largura: 3&nbsp;milímetros</strong
+                  >
+                </p>
+
+                <p
+                  style="
+                    margin: 0px 0px 10px;
+                    padding: 0px;
+                    color: rgb(102, 102, 102);
+                    font-family: 'Open Sans', sans-serif;
+                    font-size: 12px;
+                    background-color: rgb(255, 255, 255);
+                  "
+                >
+                  <strong style="margin: 0px; padding: 0px"
+                    >* Altura: 1,8 milímetros</strong
+                  >
+                </p>
+
+                <p
+                  style="
+                    margin: 0px 0px 10px;
+                    padding: 0px;
+                    color: rgb(102, 102, 102);
+                    font-family: 'Open Sans', sans-serif;
+                    font-size: 12px;
+                    background-color: rgb(255, 255, 255);
+                  "
+                >
+                  <strong style="margin: 0px; padding: 0px"
+                    >* Formato externo: Reto</strong
+                  >
+                </p>
+
+                <p
+                  style="
+                    margin: 0px 0px 10px;
+                    padding: 0px;
+                    color: rgb(102, 102, 102);
+                    font-family: 'Open Sans', sans-serif;
+                    font-size: 12px;
+                    background-color: rgb(255, 255, 255);
+                  "
+                >
+                  <strong style="margin: 0px; padding: 0px"
+                    >* Formato interno: Confort</strong
+                  >
+                </p>
+
+                <p
+                  style="
+                    margin: 0px 0px 10px;
+                    padding: 0px;
+                    color: rgb(102, 102, 102);
+                    font-family: 'Open Sans', sans-serif;
+                    font-size: 12px;
+                    background-color: rgb(255, 255, 255);
+                  "
+                >
+                  <strong style="margin: 0px; padding: 0px"
+                    >* Material interno: aço cirúrgico 316L</strong
+                  >
+                </p>
+
+                <p
+                  style="
+                    margin: 0px 0px 10px;
+                    padding: 0px;
+                    color: rgb(102, 102, 102);
+                    font-family: 'Open Sans', sans-serif;
+                    font-size: 12px;
+                    background-color: rgb(255, 255, 255);
+                  "
+                >
+                  <strong style="margin: 0px; padding: 0px"
+                    >* Garantia: permanente</strong
+                  >
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="row-fluid">
+        <div class="span12">
+          <div id="smarthint-product-position3"></div>
+          <div id="blank-product-position3"></div>
+          <div class="listagem aproveite-tambem borda-alpha">
+            <h4 class="titulo cor-secundaria">Produtos relacionados</h4>
+
+            <ul>
+              <li class="listagem-linha">
+                <ul class="row-fluid">
+                  <li class="span3">
+                    <div
+                      class="listagem-item"
+                      itemprop="isRelatedTo"
+                      itemscope="itemscope"
+                      itemtype="http://schema.org/Product"
+                    >
+                      <a
+                        href="https://www.santjordi.com.br/alianca-encapada-envelopada-revestida-reta-60-milimetros-em-ouro-10k"
+                        class="produto-sobrepor"
+                        title="Aliança encapada, envelopada, revestida reta 6.0 milímetros em ouro 10k"
+                        itemprop="url"
+                      ></a>
+                      <div class="imagem-produto">
+                        <img
+                          src="https://cdn.awsli.com.br/800x800/1682/1682931/produto/69106022/29e5b40b0a.jpg"
+                          alt="Aliança encapada, envelopada, revestida reta 6.0 milímetros em ouro 10k"
+                          itemprop="image"
+                          content="https://cdn.awsli.com.br/800x800/1682/1682931/produto/69106022/29e5b40b0a.jpg"
+                        />
+                      </div>
+                      <div
+                        class="info-produto"
+                        itemprop="offers"
+                        itemscope="itemscope"
+                        itemtype="http://schema.org/Offer"
+                      >
+                        <a
+                          href="https://www.santjordi.com.br/alianca-encapada-envelopada-revestida-reta-60-milimetros-em-ouro-10k"
+                          class="nome-produto cor-secundaria"
+                          itemprop="name"
+                        >
+                          Aliança encapada, envelopada, revestida reta 6.0
+                          milímetros em ouro 10k
+                        </a>
+                        <div class="produto-sku hide">YB27SN9ZY</div>
+
+                        <div>
+                          <div class="preco-produto destaque-preco">
+                            <div>
+                              <strong
+                                class="preco-promocional cor-principal titulo"
+                              >
+                                R$ 224,00
+                              </strong>
+                            </div>
+
+
+                            <div>
+                              <span class="preco-parcela">
+                                até
+                                <strong class="cor-secundaria">4x</strong>
+
+                                de
+                                <strong class="cor-secundaria">R$ 60,01</strong>
+                              </span>
+                            </div>
+
+                          </div>
+                        </div>
+                      </div>
+
+                      <div class="acoes-produto hidden-phone">
+                        <a
+                          href="https://www.santjordi.com.br/alianca-encapada-envelopada-revestida-reta-60-milimetros-em-ouro-10k"
+                          title="Ver detalhes do produto"
+                          class="botao botao-comprar principal"
+                          data-placement="left"
+                        >
+                          <i class="icon-search"></i>Ver detalhes
+                        </a>
+                      </div>
+                      <div class="acoes-produto-responsiva visible-phone">
+                        <a
+                          href="https://www.santjordi.com.br/alianca-encapada-envelopada-revestida-reta-60-milimetros-em-ouro-10k"
+                          title="Ver detalhes do produto"
+                          class="tag-comprar fundo-principal"
+                        >
+                          <span class="titulo">Ver detalhes</span>
+                          <i class="icon-search"></i>
+                        </a>
+                      </div>
+
+                      <div class="bandeiras-produto"></div>
+                    </div>
+                  </li>
+
+                  <li class="span3">
+                    <div
+                      class="listagem-item"
+                      itemprop="isRelatedTo"
+                      itemscope="itemscope"
+                      itemtype="http://schema.org/Product"
+                    >
+                      <a
+                        href="https://www.santjordi.com.br/alianca-encapada-envelopada-revestida-reta-com-friso-60-milimetros-em-ouro-10k"
+                        class="produto-sobrepor"
+                        title="Aliança encapada, envelopada, revestida reta com friso 6.0 milímetros em ouro 10k"
+                        itemprop="url"
+                      ></a>
+                      <div class="imagem-produto">
+                        <img
+                          src="https://cdn.awsli.com.br/800x800/1682/1682931/produto/69108619/9eea648e8e.jpg"
+                          alt="Aliança encapada, envelopada, revestida reta com friso 6.0 milímetros em ouro 10k"
+                          itemprop="image"
+                          content="https://cdn.awsli.com.br/800x800/1682/1682931/produto/69108619/9eea648e8e.jpg"
+                        />
+                      </div>
+                      <div
+                        class="info-produto"
+                        itemprop="offers"
+                        itemscope="itemscope"
+                        itemtype="http://schema.org/Offer"
+                      >
+                        <a
+                          href="https://www.santjordi.com.br/alianca-encapada-envelopada-revestida-reta-com-friso-60-milimetros-em-ouro-10k"
+                          class="nome-produto cor-secundaria"
+                          itemprop="name"
+                        >
+                          Aliança encapada, envelopada, revestida reta com friso
+                          6.0 milímetros em ouro 10k
+                        </a>
+                        <div class="produto-sku hide">H5BDZQJTB</div>
+
+                        <div>
+                          <div class="preco-produto destaque-preco">
+                            <div>
+                              <strong
+                                class="preco-promocional cor-principal titulo"
+                              >
+                                R$ 224,00
+                              </strong>
+                            </div>
+
+
+                            <div>
+                              <span class="preco-parcela">
+                                até
+                                <strong class="cor-secundaria">4x</strong>
+
+                                de
+                                <strong class="cor-secundaria">R$ 60,01</strong>
+                              </span>
+                            </div>
+
+                          </div>
+                        </div>
+                      </div>
+
+                      <div class="acoes-produto hidden-phone">
+                        <a
+                          href="https://www.santjordi.com.br/alianca-encapada-envelopada-revestida-reta-com-friso-60-milimetros-em-ouro-10k"
+                          title="Ver detalhes do produto"
+                          class="botao botao-comprar principal"
+                          data-placement="left"
+                        >
+                          <i class="icon-search"></i>Ver detalhes
+                        </a>
+                      </div>
+                      <div class="acoes-produto-responsiva visible-phone">
+                        <a
+                          href="https://www.santjordi.com.br/alianca-encapada-envelopada-revestida-reta-com-friso-60-milimetros-em-ouro-10k"
+                          title="Ver detalhes do produto"
+                          class="tag-comprar fundo-principal"
+                        >
+                          <span class="titulo">Ver detalhes</span>
+                          <i class="icon-search"></i>
+                        </a>
+                      </div>
+
+                      <div class="bandeiras-produto"></div>
+                    </div>
+                  </li>
+
+                  <li class="span3">
+                    <div
+                      class="listagem-item"
+                      itemprop="isRelatedTo"
+                      itemscope="itemscope"
+                      itemtype="http://schema.org/Product"
+                    >
+                      <a
+                        href="https://www.santjordi.com.br/alianca-encapada-envelopada-revestida-3-milimetros-em-ouro-10k"
+                        class="produto-sobrepor"
+                        title="Aliança encapada, envelopada, revestida 3 milímetros em ouro 10k"
+                        itemprop="url"
+                      ></a>
+                      <div class="imagem-produto">
+                        <img
+                          src="https://cdn.awsli.com.br/800x800/1682/1682931/produto/68699941/adb4a1821c.jpg"
+                          alt="Aliança encapada, envelopada, revestida 3 milímetros em ouro 10k"
+                          itemprop="image"
+                          content="https://cdn.awsli.com.br/800x800/1682/1682931/produto/68699941/adb4a1821c.jpg"
+                        />
+                      </div>
+                      <div
+                        class="info-produto"
+                        itemprop="offers"
+                        itemscope="itemscope"
+                        itemtype="http://schema.org/Offer"
+                      >
+                        <a
+                          href="https://www.santjordi.com.br/alianca-encapada-envelopada-revestida-3-milimetros-em-ouro-10k"
+                          class="nome-produto cor-secundaria"
+                          itemprop="name"
+                        >
+                          Aliança encapada, envelopada, revestida 3 milímetros
+                          em ouro 10k
+                        </a>
+                        <div class="produto-sku hide">259D6R5U3</div>
+
+                        <div>
+                          <div class="preco-produto destaque-preco">
+                            <div>
+                              <strong
+                                class="preco-promocional cor-principal titulo"
+                              >
+                                R$ 160,00
+                              </strong>
+                            </div>
+
+
+                            <div>
+                              <span class="preco-parcela">
+                                até
+                                <strong class="cor-secundaria">4x</strong>
+
+                                de
+                                <strong class="cor-secundaria">R$ 42,86</strong>
+                              </span>
+                            </div>
+
+                          </div>
+                        </div>
+                      </div>
+
+                      <div class="acoes-produto hidden-phone">
+                        <a
+                          href="https://www.santjordi.com.br/alianca-encapada-envelopada-revestida-3-milimetros-em-ouro-10k"
+                          title="Ver detalhes do produto"
+                          class="botao botao-comprar principal"
+                          data-placement="left"
+                        >
+                          <i class="icon-search"></i>Ver detalhes
+                        </a>
+                      </div>
+                      <div class="acoes-produto-responsiva visible-phone">
+                        <a
+                          href="https://www.santjordi.com.br/alianca-encapada-envelopada-revestida-3-milimetros-em-ouro-10k"
+                          title="Ver detalhes do produto"
+                          class="tag-comprar fundo-principal"
+                        >
+                          <span class="titulo">Ver detalhes</span>
+                          <i class="icon-search"></i>
+                        </a>
+                      </div>
+
+                      <div class="bandeiras-produto"></div>
+                    </div>
+                  </li>
+
+                  <li class="span3">
+                    <div
+                      class="listagem-item"
+                      itemprop="isRelatedTo"
+                      itemscope="itemscope"
+                      itemtype="http://schema.org/Product"
+                    >
+                      <a
+                        href="https://www.santjordi.com.br/none-69103954"
+                        class="produto-sobrepor"
+                        title="Aliança encapada, envelopada, revestida 7 milímetros em ouro 10k"
+                        itemprop="url"
+                      ></a>
+                      <div class="imagem-produto">
+                        <img
+                          src="https://cdn.awsli.com.br/800x800/1682/1682931/produto/69103954/15b0f0b6f9.jpg"
+                          alt="Aliança encapada, envelopada, revestida 7 milímetros em ouro 10k"
+                          itemprop="image"
+                          content="https://cdn.awsli.com.br/800x800/1682/1682931/produto/69103954/15b0f0b6f9.jpg"
+                        />
+                      </div>
+                      <div
+                        class="info-produto"
+                        itemprop="offers"
+                        itemscope="itemscope"
+                        itemtype="http://schema.org/Offer"
+                      >
+                        <a
+                          href="https://www.santjordi.com.br/none-69103954"
+                          class="nome-produto cor-secundaria"
+                          itemprop="name"
+                        >
+                          Aliança encapada, envelopada, revestida 7 milímetros
+                          em ouro 10k
+                        </a>
+                        <div class="produto-sku hide">5HE6L96QP</div>
+
+                        <div>
+                          <div class="preco-produto destaque-preco">
+                            <div>
+                              <strong
+                                class="preco-promocional cor-principal titulo"
+                              >
+                                R$ 224,00
+                              </strong>
+                            </div>
+
+
+                            <div>
+                              <span class="preco-parcela">
+                                até
+                                <strong class="cor-secundaria">4x</strong>
+
+                                de
+                                <strong class="cor-secundaria">R$ 60,01</strong>
+                              </span>
+                            </div>
+
+                          </div>
+                        </div>
+                      </div>
+
+                      <div class="acoes-produto hidden-phone">
+                        <a
+                          href="https://www.santjordi.com.br/none-69103954"
+                          title="Ver detalhes do produto"
+                          class="botao botao-comprar principal"
+                          data-placement="left"
+                        >
+                          <i class="icon-search"></i>Ver detalhes
+                        </a>
+                      </div>
+                      <div class="acoes-produto-responsiva visible-phone">
+                        <a
+                          href="https://www.santjordi.com.br/none-69103954"
+                          title="Ver detalhes do produto"
+                          class="tag-comprar fundo-principal"
+                        >
+                          <span class="titulo">Ver detalhes</span>
+                          <i class="icon-search"></i>
+                        </a>
+                      </div>
+
+                      <div class="bandeiras-produto"></div>
+                    </div>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div
+        class="acoes-flutuante borda-principal hidden-phone hidden-tablet"
+        style="display: block"
+      >
+        <div class="image">
+          <img
+            src="https://cdn.awsli.com.br/600x1000/1682/1682931/produto/69110028/5070b6e08d.jpg"
+          />
+        </div>
+        <span class="nome-produto titulo cor-secundaria"
+          >Aliança encapada, envelopada, revestida reta 3 milímetros em ouro
+          10k</span
+        >
+        <a href="javascript:;" class="close_float"
+          ><i class="icon-remove"></i
+        ></a>
+
+        <div
+          class="acoes-produto hide disponivel SKU-MP2TLSJ2L-34"
+          data-produto-id="69111069"
+          data-variacao-id="138944"
+        >
+          <div>
+            <div class="preco-produto destaque-preco">
+              <div>
+                <strong class="preco-promocional cor-principal titulo">
+                  R$ 160,00
+                </strong>
+              </div>
+
+
+              <div>
+                <span class="preco-parcela">
+                  até
+                  <strong class="cor-secundaria">4x</strong>
+
+                  de
+                  <strong class="cor-secundaria">R$ 42,86</strong>
+                </span>
+              </div>
+
+            </div>
+          </div>
+
+          <div class="comprar">
+            <a
+              href="https://www.santjordi.com.br/carrinho/produto/69111069/adicionar"
+              class="botao botao-comprar principal grande botao-comprar-ajax"
+              rel="nofollow"
+              data-loading-text="<i class='icon-refresh icon-animate'></i> Comprar"
+              data-placement="left"
+            >
+              <i class="icon-shopping-cart"></i> Comprar
+            </a>
+
+            <span class="cor-secundaria disponibilidade-produto">
+              Estoque:
+              <b class="cor-principal"> 2 dias úteis </b>
+            </span>
+          </div>
+        </div>
+
+        <div
+          class="acoes-produto hide disponivel SKU-MP2TLSJ2L-33"
+          data-produto-id="69111042"
+          data-variacao-id="138943"
+        >
+          <div>
+            <div class="preco-produto destaque-preco">
+              <div>
+                <strong class="preco-promocional cor-principal titulo">
+                  R$ 160,00
+                </strong>
+              </div>
+
+
+              <div>
+                <span class="preco-parcela">
+                  até
+                  <strong class="cor-secundaria">4x</strong>
+
+                  de
+                  <strong class="cor-secundaria">R$ 42,86</strong>
+                </span>
+              </div>
+
+            </div>
+          </div>
+
+          <div class="comprar">
+            <a
+              href="https://www.santjordi.com.br/carrinho/produto/69111042/adicionar"
+              class="botao botao-comprar principal grande botao-comprar-ajax"
+              rel="nofollow"
+              data-loading-text="<i class='icon-refresh icon-animate'></i> Comprar"
+              data-placement="left"
+            >
+              <i class="icon-shopping-cart"></i> Comprar
+            </a>
+
+            <span class="cor-secundaria disponibilidade-produto">
+              Estoque:
+              <b class="cor-principal"> 2 dias úteis </b>
+            </span>
+          </div>
+        </div>
+
+        <div
+          class="acoes-produto hide disponivel SKU-MP2TLSJ2L-32"
+          data-produto-id="69111022"
+          data-variacao-id="138942"
+        >
+          <div>
+            <div class="preco-produto destaque-preco">
+              <div>
+                <strong class="preco-promocional cor-principal titulo">
+                  R$ 160,00
+                </strong>
+              </div>
+
+
+              <div>
+                <span class="preco-parcela">
+                  até
+                  <strong class="cor-secundaria">4x</strong>
+
+                  de
+                  <strong class="cor-secundaria">R$ 42,86</strong>
+                </span>
+              </div>
+
+            </div>
+          </div>
+
+          <div class="comprar">
+            <a
+              href="https://www.santjordi.com.br/carrinho/produto/69111022/adicionar"
+              class="botao botao-comprar principal grande botao-comprar-ajax"
+              rel="nofollow"
+              data-loading-text="<i class='icon-refresh icon-animate'></i> Comprar"
+              data-placement="left"
+            >
+              <i class="icon-shopping-cart"></i> Comprar
+            </a>
+
+            <span class="cor-secundaria disponibilidade-produto">
+              Estoque:
+              <b class="cor-principal"> 2 dias úteis </b>
+            </span>
+          </div>
+        </div>
+
+        <div
+          class="acoes-produto hide disponivel SKU-MP2TLSJ2L-31"
+          data-produto-id="69110989"
+          data-variacao-id="138941"
+        >
+          <div>
+            <div class="preco-produto destaque-preco">
+              <div>
+                <strong class="preco-promocional cor-principal titulo">
+                  R$ 160,00
+                </strong>
+              </div>
+
+
+              <div>
+                <span class="preco-parcela">
+                  até
+                  <strong class="cor-secundaria">4x</strong>
+
+                  de
+                  <strong class="cor-secundaria">R$ 42,86</strong>
+                </span>
+              </div>
+
+            </div>
+          </div>
+
+          <div class="comprar">
+            <a
+              href="https://www.santjordi.com.br/carrinho/produto/69110989/adicionar"
+              class="botao botao-comprar principal grande botao-comprar-ajax"
+              rel="nofollow"
+              data-loading-text="<i class='icon-refresh icon-animate'></i> Comprar"
+              data-placement="left"
+            >
+              <i class="icon-shopping-cart"></i> Comprar
+            </a>
+
+            <span class="cor-secundaria disponibilidade-produto">
+              Estoque:
+              <b class="cor-principal"> 2 dias úteis </b>
+            </span>
+          </div>
+        </div>
+
+        <div
+          class="acoes-produto hide disponivel SKU-MP2TLSJ2L-30"
+          data-produto-id="69110977"
+          data-variacao-id="138940"
+        >
+          <div>
+            <div class="preco-produto destaque-preco">
+              <div>
+                <strong class="preco-promocional cor-principal titulo">
+                  R$ 160,00
+                </strong>
+              </div>
+
+
+              <div>
+                <span class="preco-parcela">
+                  até
+                  <strong class="cor-secundaria">4x</strong>
+
+                  de
+                  <strong class="cor-secundaria">R$ 42,86</strong>
+                </span>
+              </div>
+
+            </div>
+          </div>
+
+          <div class="comprar">
+            <a
+              href="https://www.santjordi.com.br/carrinho/produto/69110977/adicionar"
+              class="botao botao-comprar principal grande botao-comprar-ajax"
+              rel="nofollow"
+              data-loading-text="<i class='icon-refresh icon-animate'></i> Comprar"
+              data-placement="left"
+            >
+              <i class="icon-shopping-cart"></i> Comprar
+            </a>
+
+            <span class="cor-secundaria disponibilidade-produto">
+              Estoque:
+              <b class="cor-principal"> 2 dias úteis </b>
+            </span>
+          </div>
+        </div>
+
+        <div
+          class="acoes-produto hide disponivel SKU-MP2TLSJ2L-29"
+          data-produto-id="69110967"
+          data-variacao-id="138939"
+        >
+          <div>
+            <div class="preco-produto destaque-preco">
+              <div>
+                <strong class="preco-promocional cor-principal titulo">
+                  R$ 160,00
+                </strong>
+              </div>
+
+
+              <div>
+                <span class="preco-parcela">
+                  até
+                  <strong class="cor-secundaria">4x</strong>
+
+                  de
+                  <strong class="cor-secundaria">R$ 42,86</strong>
+                </span>
+              </div>
+
+            </div>
+          </div>
+
+          <div class="comprar">
+            <a
+              href="https://www.santjordi.com.br/carrinho/produto/69110967/adicionar"
+              class="botao botao-comprar principal grande botao-comprar-ajax"
+              rel="nofollow"
+              data-loading-text="<i class='icon-refresh icon-animate'></i> Comprar"
+              data-placement="left"
+            >
+              <i class="icon-shopping-cart"></i> Comprar
+            </a>
+
+            <span class="cor-secundaria disponibilidade-produto">
+              Estoque:
+              <b class="cor-principal"> 2 dias úteis </b>
+            </span>
+          </div>
+        </div>
+
+        <div
+          class="acoes-produto hide disponivel SKU-MP2TLSJ2L-28"
+          data-produto-id="69110941"
+          data-variacao-id="138938"
+        >
+          <div>
+            <div class="preco-produto destaque-preco">
+              <div>
+                <strong class="preco-promocional cor-principal titulo">
+                  R$ 160,00
+                </strong>
+              </div>
+
+
+              <div>
+                <span class="preco-parcela">
+                  até
+                  <strong class="cor-secundaria">4x</strong>
+
+                  de
+                  <strong class="cor-secundaria">R$ 42,86</strong>
+                </span>
+              </div>
+
+            </div>
+          </div>
+
+          <div class="comprar">
+            <a
+              href="https://www.santjordi.com.br/carrinho/produto/69110941/adicionar"
+              class="botao botao-comprar principal grande botao-comprar-ajax"
+              rel="nofollow"
+              data-loading-text="<i class='icon-refresh icon-animate'></i> Comprar"
+              data-placement="left"
+            >
+              <i class="icon-shopping-cart"></i> Comprar
+            </a>
+
+            <span class="cor-secundaria disponibilidade-produto">
+              Estoque:
+              <b class="cor-principal"> 2 dias úteis </b>
+            </span>
+          </div>
+        </div>
+
+        <div
+          class="acoes-produto hide disponivel SKU-MP2TLSJ2L-27"
+          data-produto-id="69110930"
+          data-variacao-id="138937"
+        >
+          <div>
+            <div class="preco-produto destaque-preco">
+              <div>
+                <strong class="preco-promocional cor-principal titulo">
+                  R$ 160,00
+                </strong>
+              </div>
+
+
+              <div>
+                <span class="preco-parcela">
+                  até
+                  <strong class="cor-secundaria">4x</strong>
+
+                  de
+                  <strong class="cor-secundaria">R$ 42,86</strong>
+                </span>
+              </div>
+
+            </div>
+          </div>
+
+          <div class="comprar">
+            <a
+              href="https://www.santjordi.com.br/carrinho/produto/69110930/adicionar"
+              class="botao botao-comprar principal grande botao-comprar-ajax"
+              rel="nofollow"
+              data-loading-text="<i class='icon-refresh icon-animate'></i> Comprar"
+              data-placement="left"
+            >
+              <i class="icon-shopping-cart"></i> Comprar
+            </a>
+
+            <span class="cor-secundaria disponibilidade-produto">
+              Estoque:
+              <b class="cor-principal"> 2 dias úteis </b>
+            </span>
+          </div>
+        </div>
+
+        <div
+          class="acoes-produto hide disponivel SKU-MP2TLSJ2L-26"
+          data-produto-id="69110900"
+          data-variacao-id="138936"
+        >
+          <div>
+            <div class="preco-produto destaque-preco">
+              <div>
+                <strong class="preco-promocional cor-principal titulo">
+                  R$ 160,00
+                </strong>
+              </div>
+
+
+              <div>
+                <span class="preco-parcela">
+                  até
+                  <strong class="cor-secundaria">4x</strong>
+
+                  de
+                  <strong class="cor-secundaria">R$ 42,86</strong>
+                </span>
+              </div>
+
+            </div>
+          </div>
+
+          <div class="comprar">
+            <a
+              href="https://www.santjordi.com.br/carrinho/produto/69110900/adicionar"
+              class="botao botao-comprar principal grande botao-comprar-ajax"
+              rel="nofollow"
+              data-loading-text="<i class='icon-refresh icon-animate'></i> Comprar"
+              data-placement="left"
+            >
+              <i class="icon-shopping-cart"></i> Comprar
+            </a>
+
+            <span class="cor-secundaria disponibilidade-produto">
+              Estoque:
+              <b class="cor-principal"> 2 dias úteis </b>
+            </span>
+          </div>
+        </div>
+
+        <div
+          class="acoes-produto hide disponivel SKU-MP2TLSJ2L-25"
+          data-produto-id="69110884"
+          data-variacao-id="138935"
+        >
+          <div>
+            <div class="preco-produto destaque-preco">
+              <div>
+                <strong class="preco-promocional cor-principal titulo">
+                  R$ 160,00
+                </strong>
+              </div>
+
+
+              <div>
+                <span class="preco-parcela">
+                  até
+                  <strong class="cor-secundaria">4x</strong>
+
+                  de
+                  <strong class="cor-secundaria">R$ 42,86</strong>
+                </span>
+              </div>
+
+            </div>
+          </div>
+
+          <div class="comprar">
+            <a
+              href="https://www.santjordi.com.br/carrinho/produto/69110884/adicionar"
+              class="botao botao-comprar principal grande botao-comprar-ajax"
+              rel="nofollow"
+              data-loading-text="<i class='icon-refresh icon-animate'></i> Comprar"
+              data-placement="left"
+            >
+              <i class="icon-shopping-cart"></i> Comprar
+            </a>
+
+            <span class="cor-secundaria disponibilidade-produto">
+              Estoque:
+              <b class="cor-principal"> 2 dias úteis </b>
+            </span>
+          </div>
+        </div>
+
+        <div
+          class="acoes-produto hide disponivel SKU-MP2TLSJ2L-24"
+          data-produto-id="69110853"
+          data-variacao-id="138934"
+        >
+          <div>
+            <div class="preco-produto destaque-preco">
+              <div>
+                <strong class="preco-promocional cor-principal titulo">
+                  R$ 160,00
+                </strong>
+              </div>
+
+
+              <div>
+                <span class="preco-parcela">
+                  até
+                  <strong class="cor-secundaria">4x</strong>
+
+                  de
+                  <strong class="cor-secundaria">R$ 42,86</strong>
+                </span>
+              </div>
+
+            </div>
+          </div>
+
+          <div class="comprar">
+            <a
+              href="https://www.santjordi.com.br/carrinho/produto/69110853/adicionar"
+              class="botao botao-comprar principal grande botao-comprar-ajax"
+              rel="nofollow"
+              data-loading-text="<i class='icon-refresh icon-animate'></i> Comprar"
+              data-placement="left"
+            >
+              <i class="icon-shopping-cart"></i> Comprar
+            </a>
+
+            <span class="cor-secundaria disponibilidade-produto">
+              Estoque:
+              <b class="cor-principal"> 2 dias úteis </b>
+            </span>
+          </div>
+        </div>
+
+        <div
+          class="acoes-produto hide disponivel SKU-MP2TLSJ2L-23"
+          data-produto-id="69110834"
+          data-variacao-id="138933"
+        >
+          <div>
+            <div class="preco-produto destaque-preco">
+              <div>
+                <strong class="preco-promocional cor-principal titulo">
+                  R$ 160,00
+                </strong>
+              </div>
+
+
+              <div>
+                <span class="preco-parcela">
+                  até
+                  <strong class="cor-secundaria">4x</strong>
+
+                  de
+                  <strong class="cor-secundaria">R$ 42,86</strong>
+                </span>
+              </div>
+
+            </div>
+          </div>
+
+          <div class="comprar">
+            <a
+              href="https://www.santjordi.com.br/carrinho/produto/69110834/adicionar"
+              class="botao botao-comprar principal grande botao-comprar-ajax"
+              rel="nofollow"
+              data-loading-text="<i class='icon-refresh icon-animate'></i> Comprar"
+              data-placement="left"
+            >
+              <i class="icon-shopping-cart"></i> Comprar
+            </a>
+
+            <span class="cor-secundaria disponibilidade-produto">
+              Estoque:
+              <b class="cor-principal"> 2 dias úteis </b>
+            </span>
+          </div>
+        </div>
+
+        <div
+          class="acoes-produto hide disponivel SKU-MP2TLSJ2L-22"
+          data-produto-id="69110800"
+          data-variacao-id="138932"
+        >
+          <div>
+            <div class="preco-produto destaque-preco">
+              <div>
+                <strong class="preco-promocional cor-principal titulo">
+                  R$ 160,00
+                </strong>
+              </div>
+
+
+              <div>
+                <span class="preco-parcela">
+                  até
+                  <strong class="cor-secundaria">4x</strong>
+
+                  de
+                  <strong class="cor-secundaria">R$ 42,86</strong>
+                </span>
+              </div>
+
+            </div>
+          </div>
+
+          <div class="comprar">
+            <a
+              href="https://www.santjordi.com.br/carrinho/produto/69110800/adicionar"
+              class="botao botao-comprar principal grande botao-comprar-ajax"
+              rel="nofollow"
+              data-loading-text="<i class='icon-refresh icon-animate'></i> Comprar"
+              data-placement="left"
+            >
+              <i class="icon-shopping-cart"></i> Comprar
+            </a>
+
+            <span class="cor-secundaria disponibilidade-produto">
+              Estoque:
+              <b class="cor-principal"> 2 dias úteis </b>
+            </span>
+          </div>
+        </div>
+
+        <div
+          class="acoes-produto hide disponivel SKU-MP2TLSJ2L-21"
+          data-produto-id="69110785"
+          data-variacao-id="138931"
+        >
+          <div>
+            <div class="preco-produto destaque-preco">
+              <div>
+                <strong class="preco-promocional cor-principal titulo">
+                  R$ 160,00
+                </strong>
+              </div>
+
+
+              <div>
+                <span class="preco-parcela">
+                  até
+                  <strong class="cor-secundaria">4x</strong>
+
+                  de
+                  <strong class="cor-secundaria">R$ 42,86</strong>
+                </span>
+              </div>
+
+            </div>
+          </div>
+
+          <div class="comprar">
+            <a
+              href="https://www.santjordi.com.br/carrinho/produto/69110785/adicionar"
+              class="botao botao-comprar principal grande botao-comprar-ajax"
+              rel="nofollow"
+              data-loading-text="<i class='icon-refresh icon-animate'></i> Comprar"
+              data-placement="left"
+            >
+              <i class="icon-shopping-cart"></i> Comprar
+            </a>
+
+            <span class="cor-secundaria disponibilidade-produto">
+              Estoque:
+              <b class="cor-principal"> 2 dias úteis </b>
+            </span>
+          </div>
+        </div>
+
+        <div
+          class="acoes-produto hide disponivel SKU-MP2TLSJ2L-20"
+          data-produto-id="69110761"
+          data-variacao-id="138930"
+        >
+          <div>
+            <div class="preco-produto destaque-preco">
+              <div>
+                <strong class="preco-promocional cor-principal titulo">
+                  R$ 160,00
+                </strong>
+              </div>
+
+
+              <div>
+                <span class="preco-parcela">
+                  até
+                  <strong class="cor-secundaria">4x</strong>
+
+                  de
+                  <strong class="cor-secundaria">R$ 42,86</strong>
+                </span>
+              </div>
+
+            </div>
+          </div>
+
+          <div class="comprar">
+            <a
+              href="https://www.santjordi.com.br/carrinho/produto/69110761/adicionar"
+              class="botao botao-comprar principal grande botao-comprar-ajax"
+              rel="nofollow"
+              data-loading-text="<i class='icon-refresh icon-animate'></i> Comprar"
+              data-placement="left"
+            >
+              <i class="icon-shopping-cart"></i> Comprar
+            </a>
+
+            <span class="cor-secundaria disponibilidade-produto">
+              Estoque:
+              <b class="cor-principal"> 2 dias úteis </b>
+            </span>
+          </div>
+        </div>
+
+        <div
+          class="acoes-produto hide disponivel SKU-MP2TLSJ2L-19"
+          data-produto-id="69110730"
+          data-variacao-id="138929"
+        >
+          <div>
+            <div class="preco-produto destaque-preco">
+              <div>
+                <strong class="preco-promocional cor-principal titulo">
+                  R$ 160,00
+                </strong>
+              </div>
+
+
+              <div>
+                <span class="preco-parcela">
+                  até
+                  <strong class="cor-secundaria">4x</strong>
+
+                  de
+                  <strong class="cor-secundaria">R$ 42,86</strong>
+                </span>
+              </div>
+
+            </div>
+          </div>
+
+          <div class="comprar">
+            <a
+              href="https://www.santjordi.com.br/carrinho/produto/69110730/adicionar"
+              class="botao botao-comprar principal grande botao-comprar-ajax"
+              rel="nofollow"
+              data-loading-text="<i class='icon-refresh icon-animate'></i> Comprar"
+              data-placement="left"
+            >
+              <i class="icon-shopping-cart"></i> Comprar
+            </a>
+
+            <span class="cor-secundaria disponibilidade-produto">
+              Estoque:
+              <b class="cor-principal"> 2 dias úteis </b>
+            </span>
+          </div>
+        </div>
+
+        <div
+          class="acoes-produto hide disponivel SKU-MP2TLSJ2L-18"
+          data-produto-id="69110714"
+          data-variacao-id="138928"
+        >
+          <div>
+            <div class="preco-produto destaque-preco">
+              <div>
+                <strong class="preco-promocional cor-principal titulo">
+                  R$ 160,00
+                </strong>
+              </div>
+
+
+              <div>
+                <span class="preco-parcela">
+                  até
+                  <strong class="cor-secundaria">4x</strong>
+
+                  de
+                  <strong class="cor-secundaria">R$ 42,86</strong>
+                </span>
+              </div>
+
+            </div>
+          </div>
+
+          <div class="comprar">
+            <a
+              href="https://www.santjordi.com.br/carrinho/produto/69110714/adicionar"
+              class="botao botao-comprar principal grande botao-comprar-ajax"
+              rel="nofollow"
+              data-loading-text="<i class='icon-refresh icon-animate'></i> Comprar"
+              data-placement="left"
+            >
+              <i class="icon-shopping-cart"></i> Comprar
+            </a>
+
+            <span class="cor-secundaria disponibilidade-produto">
+              Estoque:
+              <b class="cor-principal"> 2 dias úteis </b>
+            </span>
+          </div>
+        </div>
+
+        <div
+          class="acoes-produto hide disponivel SKU-MP2TLSJ2L-17"
+          data-produto-id="69110701"
+          data-variacao-id="138927"
+        >
+          <div>
+            <div class="preco-produto destaque-preco">
+              <div>
+                <strong class="preco-promocional cor-principal titulo">
+                  R$ 160,00
+                </strong>
+              </div>
+
+
+              <div>
+                <span class="preco-parcela">
+                  até
+                  <strong class="cor-secundaria">4x</strong>
+
+                  de
+                  <strong class="cor-secundaria">R$ 42,86</strong>
+                </span>
+              </div>
+
+            </div>
+          </div>
+
+          <div class="comprar">
+            <a
+              href="https://www.santjordi.com.br/carrinho/produto/69110701/adicionar"
+              class="botao botao-comprar principal grande botao-comprar-ajax"
+              rel="nofollow"
+              data-loading-text="<i class='icon-refresh icon-animate'></i> Comprar"
+              data-placement="left"
+            >
+              <i class="icon-shopping-cart"></i> Comprar
+            </a>
+
+            <span class="cor-secundaria disponibilidade-produto">
+              Estoque:
+              <b class="cor-principal"> 2 dias úteis </b>
+            </span>
+          </div>
+        </div>
+
+        <div
+          class="acoes-produto hide disponivel SKU-MP2TLSJ2L-16"
+          data-produto-id="69110679"
+          data-variacao-id="138926"
+        >
+          <div>
+            <div class="preco-produto destaque-preco">
+              <div>
+                <strong class="preco-promocional cor-principal titulo">
+                  R$ 160,00
+                </strong>
+              </div>
+
+
+              <div>
+                <span class="preco-parcela">
+                  até
+                  <strong class="cor-secundaria">4x</strong>
+
+                  de
+                  <strong class="cor-secundaria">R$ 42,86</strong>
+                </span>
+              </div>
+
+            </div>
+          </div>
+
+          <div class="comprar">
+            <a
+              href="https://www.santjordi.com.br/carrinho/produto/69110679/adicionar"
+              class="botao botao-comprar principal grande botao-comprar-ajax"
+              rel="nofollow"
+              data-loading-text="<i class='icon-refresh icon-animate'></i> Comprar"
+              data-placement="left"
+            >
+              <i class="icon-shopping-cart"></i> Comprar
+            </a>
+
+            <span class="cor-secundaria disponibilidade-produto">
+              Estoque:
+              <b class="cor-principal"> 2 dias úteis </b>
+            </span>
+          </div>
+        </div>
+
+        <div
+          class="acoes-produto hide disponivel SKU-MP2TLSJ2L-15"
+          data-produto-id="69110661"
+          data-variacao-id="138925"
+        >
+          <div>
+            <div class="preco-produto destaque-preco">
+              <div>
+                <strong class="preco-promocional cor-principal titulo">
+                  R$ 160,00
+                </strong>
+              </div>
+
+
+              <div>
+                <span class="preco-parcela">
+                  até
+                  <strong class="cor-secundaria">4x</strong>
+
+                  de
+                  <strong class="cor-secundaria">R$ 42,86</strong>
+                </span>
+              </div>
+
+            </div>
+          </div>
+
+          <div class="comprar">
+            <a
+              href="https://www.santjordi.com.br/carrinho/produto/69110661/adicionar"
+              class="botao botao-comprar principal grande botao-comprar-ajax"
+              rel="nofollow"
+              data-loading-text="<i class='icon-refresh icon-animate'></i> Comprar"
+              data-placement="left"
+            >
+              <i class="icon-shopping-cart"></i> Comprar
+            </a>
+
+            <span class="cor-secundaria disponibilidade-produto">
+              Estoque:
+              <b class="cor-principal"> 2 dias úteis </b>
+            </span>
+          </div>
+        </div>
+
+        <div
+          class="acoes-produto hide disponivel SKU-MP2TLSJ2L-14"
+          data-produto-id="69110645"
+          data-variacao-id="138924"
+        >
+          <div>
+            <div class="preco-produto destaque-preco">
+              <div>
+                <strong class="preco-promocional cor-principal titulo">
+                  R$ 160,00
+                </strong>
+              </div>
+
+
+              <div>
+                <span class="preco-parcela">
+                  até
+                  <strong class="cor-secundaria">4x</strong>
+
+                  de
+                  <strong class="cor-secundaria">R$ 42,86</strong>
+                </span>
+              </div>
+
+            </div>
+          </div>
+
+          <div class="comprar">
+            <a
+              href="https://www.santjordi.com.br/carrinho/produto/69110645/adicionar"
+              class="botao botao-comprar principal grande botao-comprar-ajax"
+              rel="nofollow"
+              data-loading-text="<i class='icon-refresh icon-animate'></i> Comprar"
+              data-placement="left"
+            >
+              <i class="icon-shopping-cart"></i> Comprar
+            </a>
+
+            <span class="cor-secundaria disponibilidade-produto">
+              Estoque:
+              <b class="cor-principal"> 2 dias úteis </b>
+            </span>
+          </div>
+        </div>
+
+        <div
+          class="acoes-produto hide disponivel SKU-MP2TLSJ2L-13"
+          data-produto-id="69110596"
+          data-variacao-id="138923"
+        >
+          <div>
+            <div class="preco-produto destaque-preco">
+              <div>
+                <strong class="preco-promocional cor-principal titulo">
+                  R$ 160,00
+                </strong>
+              </div>
+
+
+              <div>
+                <span class="preco-parcela">
+                  até
+                  <strong class="cor-secundaria">4x</strong>
+
+                  de
+                  <strong class="cor-secundaria">R$ 42,86</strong>
+                </span>
+              </div>
+
+            </div>
+          </div>
+
+          <div class="comprar">
+            <a
+              href="https://www.santjordi.com.br/carrinho/produto/69110596/adicionar"
+              class="botao botao-comprar principal grande botao-comprar-ajax"
+              rel="nofollow"
+              data-loading-text="<i class='icon-refresh icon-animate'></i> Comprar"
+              data-placement="left"
+            >
+              <i class="icon-shopping-cart"></i> Comprar
+            </a>
+
+            <span class="cor-secundaria disponibilidade-produto">
+              Estoque:
+              <b class="cor-principal"> 2 dias úteis </b>
+            </span>
+          </div>
+        </div>
+
+        <div
+          class="acoes-produto hide disponivel SKU-MP2TLSJ2L-12"
+          data-produto-id="69110580"
+          data-variacao-id="138922"
+        >
+          <div>
+            <div class="preco-produto destaque-preco">
+              <div>
+                <strong class="preco-promocional cor-principal titulo">
+                  R$ 160,00
+                </strong>
+              </div>
+
+
+              <div>
+                <span class="preco-parcela">
+                  até
+                  <strong class="cor-secundaria">4x</strong>
+
+                  de
+                  <strong class="cor-secundaria">R$ 42,86</strong>
+                </span>
+              </div>
+
+            </div>
+          </div>
+
+          <div class="comprar">
+            <a
+              href="https://www.santjordi.com.br/carrinho/produto/69110580/adicionar"
+              class="botao botao-comprar principal grande botao-comprar-ajax"
+              rel="nofollow"
+              data-loading-text="<i class='icon-refresh icon-animate'></i> Comprar"
+              data-placement="left"
+            >
+              <i class="icon-shopping-cart"></i> Comprar
+            </a>
+
+            <span class="cor-secundaria disponibilidade-produto">
+              Estoque:
+              <b class="cor-principal"> 2 dias úteis </b>
+            </span>
+          </div>
+        </div>
+
+        <div
+          class="acoes-produto hide disponivel SKU-MP2TLSJ2L-11"
+          data-produto-id="69110544"
+          data-variacao-id="138921"
+        >
+          <div>
+            <div class="preco-produto destaque-preco">
+              <div>
+                <strong class="preco-promocional cor-principal titulo">
+                  R$ 160,00
+                </strong>
+              </div>
+
+
+              <div>
+                <span class="preco-parcela">
+                  até
+                  <strong class="cor-secundaria">4x</strong>
+
+                  de
+                  <strong class="cor-secundaria">R$ 42,86</strong>
+                </span>
+              </div>
+
+            </div>
+          </div>
+
+          <div class="comprar">
+            <a
+              href="https://www.santjordi.com.br/carrinho/produto/69110544/adicionar"
+              class="botao botao-comprar principal grande botao-comprar-ajax"
+              rel="nofollow"
+              data-loading-text="<i class='icon-refresh icon-animate'></i> Comprar"
+              data-placement="left"
+            >
+              <i class="icon-shopping-cart"></i> Comprar
+            </a>
+
+            <span class="cor-secundaria disponibilidade-produto">
+              Estoque:
+              <b class="cor-principal"> 2 dias úteis </b>
+            </span>
+          </div>
+        </div>
+
+        <div
+          class="acoes-produto hide disponivel SKU-MP2TLSJ2L-10"
+          data-produto-id="69110436"
+          data-variacao-id="138920"
+        >
+          <div>
+            <div class="preco-produto destaque-preco">
+              <div>
+                <strong class="preco-promocional cor-principal titulo">
+                  R$ 160,00
+                </strong>
+              </div>
+
+
+              <div>
+                <span class="preco-parcela">
+                  até
+                  <strong class="cor-secundaria">4x</strong>
+
+                  de
+                  <strong class="cor-secundaria">R$ 42,86</strong>
+                </span>
+              </div>
+
+            </div>
+          </div>
+
+          <div class="comprar">
+            <a
+              href="https://www.santjordi.com.br/carrinho/produto/69110436/adicionar"
+              class="botao botao-comprar principal grande botao-comprar-ajax"
+              rel="nofollow"
+              data-loading-text="<i class='icon-refresh icon-animate'></i> Comprar"
+              data-placement="left"
+            >
+              <i class="icon-shopping-cart"></i> Comprar
+            </a>
+
+            <span class="cor-secundaria disponibilidade-produto">
+              Estoque:
+              <b class="cor-principal"> 2 dias úteis </b>
+            </span>
+          </div>
+        </div>
+
+        <div
+          class="acoes-produto SKU-MP2TLSJ2L"
+          data-produto-id="69110028"
+          data-variacao-id=""
+        >
+          <div>
+            <div class="preco-produto destaque-preco">
+              <div>
+                <strong class="preco-promocional cor-principal titulo">
+                  R$ 160,00
+                </strong>
+              </div>
+
+
+              <div>
+                <span class="preco-parcela">
+                  até
+                  <strong class="cor-secundaria">4x</strong>
+
+                  de
+                  <strong class="cor-secundaria">R$ 42,86</strong>
+                </span>
+              </div>
+
+            </div>
+          </div>
+
+          <div class="comprar">
+            <a
+              href="javascript:;"
+              class="botao botao-comprar principal grande desativo with-popover"
+              rel="popover"
+              data-placement="left"
+              data-trigger="hover"
+              data-content="Selecione uma opção de atributo disponível."
+              data-original-title="IMPORTANTE"
+            >
+              <i class="icon-shopping-cart"></i> Comprar
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
